@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liste de chercheurs en histoire de l’art et muséologie numériques</title>
+        <principal>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+          <affiliation>
+            <orgName>Université de Montréal</orgName>
+          </affiliation>
+          <idno type="orcid"></idno>
+        </principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Ouvroir d’histoire de l’art et de muséologie numériques</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Fichier nativement numérique</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <head>Liste de chercheurs en histoire de l’art et muséologie numériques</head>
+        <person>
+          <persName>
+            <forename>Chiara</forename>
+            <surname>Bonacchi</surname>
+          </persName>
+          <affiliation>
+            <orgName>University of Stirling</orgName>
+            <country>United Kingdom</country>
+          </affiliation>
+          <note>
+            <p>Senior Lecturer @StirUni, leading on Digital Heritage. Former @UCL. I research the intersections between heritage, data and politics using digital methods.</p>
+          </note>
+          <idno type="twitter">@chiara_bonacchi</idno>
+          <idno type="orcid">0000-0002-0872-0614</idno>
+          <idno type="email">chiara.bonacchi@stir.ac.uk</idno>
+          <idno type="academic">https://www.stir.ac.uk/people/482880</idno>
+          <keywords>
+            <term>digital heritage</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Xavier</forename>
+            <surname>Rubio-Campillo</surname>
+          </persName>
+          <affiliation>
+            <orgName>Universitat de Barcelona</orgName>
+            <country>Spain</country>
+          </affiliation>
+          <note>
+            <p>I am a Ramón y Cajal senior research fellow at the University of Barcelona. My main task in this position is to explore and teach new digital approaches to understand and communicate dynamics of past human activity.</p>
+            <p>My current research is focused on three linked goals: a) to develop innovative digital methods to understand the complex relation between environment and past societies, b) to improve how conflict heritage is interpreted and c) to promote reflexive approaches to the human past through digital education techniques. I investigate these themes by applying innovative quantitative frameworks to a variety of topics such as the neolithic transition, the evolution of warfare or settlement dynamics.</p>
+          </note>
+          <idno type="email">xrubio@ub.edu</idno>
+          <idno type="twitter">@xrubiocampillo</idno>
+          <idno type="isni">0000-0003-4428-4335</idno>
+          <idno type="github">https://github.com/xrubio/</idno>
+          <idno type="lab">https://www.didpatri.cat/investigadors/xavier-rubio-campillo/</idno>
+          <keywords>
+            <term>digital heritage</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Sara</forename>
+            <surname>Nabil</surname>
+          </persName>
+          <note>
+            <p>Designing everyday interactive spaces, assistive technology and wearables for the well-being of people and a better quality of living. Using smart materials, digital fabrication and morphological actuation to explore new techniques of embodied interaction woven into interior design, product design and fashion design. Researching Human-Computer Interaction (HCI) to empower marginalized communities. </p>
+            <p>CRSH Exploration: Back to the Future: Exploring Digital Fabrication Technology in Designing Interactive Museum Artifacts https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2020/award_recipients-beneficiaires_du_financement-fra.aspx</p>
+          </note>
+          <idno type="perso">https://saranabil.com</idno>
+          <keywords>
+            <term>making</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Lai-Tze</forename>
+            <surname>Fan</surname>
+          </persName>
+          <affiliation>
+            <orgName>University of Waterloo</orgName>
+            <country>Canada</country>
+          </affiliation>
+          <keywords>
+            <term>digital storytelling</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Caitlin</forename>
+            <surname>Fisher</surname>
+          </persName>
+          <idno type="academic">https://ampd.yorku.ca/profile/caitlin-fisher/</idno>
+          <idno type="perso">http://www.yorku.ca/caitlin</idno>
+          <affiliation>
+            <orgName>York University</orgName>
+            <country>Canada</country>
+          </affiliation>
+          <keywords>
+            <term>digital storytelling</term>
+            <term>cinema</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Anne</forename>
+            <surname>Luther</surname>
+          </persName>
+          <note>
+            <p>Dr. Anne Luther is a specialist for digital heritage and a digital humanities scholar. Her work applies technology, design and humanities research for the interaction, exploration and opening of cultural heritage preserved and represented in digital data. She is the founder of The Institute for Digital Heritage and Principal Investigator for Digital Benin, leading the development of a digital platform which brings together rich documentation from collections worldwide to provide a long-requested overview of the royal artworks looted in the 19th century from the Kingdom of Benin.</p>
+          </note>
+          <affiliation>
+            <orgName>Institute for Digital Heritage</orgName>
+            <country>Germany</country>
+            <idno>https://www.institutefordigitalheritage.org</idno>
+          </affiliation>
+          <idno type="twitter">@AnneLuthera</idno>
+          <idno type="perso">https://anneluther.info</idno>
+          <keywords>
+            <term>digital museology</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Tim</forename>
+            <surname>Sherratt</surname>
+          </persName>
+          <idno type="perso">https://timsherratt.org</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Sophie</forename>
+            <surname>Balcon-Fourmaux</surname>
+          </persName>
+          <affiliation>
+            <orgName>Paris 3</orgName>
+            <country>France</country>
+          </affiliation>
+          <note>
+            <p>Thèse en cours sous la direction de Franck Rebillard et de Fabrice Rochelandet : Les pratiques en réalité virtuelle, une étude transversale au sein des industries culturelles. https://www.theses.fr/s266483</p>
+          </note>
+          <idno type="linkedin">https://www.linkedin.com/in/sophie-balcon-fourmaux-35835a13b/?originalSubdomain=fr</idno>
+          <keywords>
+            <term>virtual</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Olivier</forename>
+            <surname>Hu</surname>
+          </persName>
+          <affiliation>
+            <orgName>Université d’Angers</orgName>
+            <country>France</country>
+          </affiliation>
+          <idno type="perso"
+            >https://www.univ-angers.fr/fr/acces-directs/annuaire-2/h/u/uduser-olivier-hu-fr.html</idno>
+          <note>
+            <p>Responsable pédagogique du Master Technologies Numériques et Produits Culturels.</p>
+            <p>Responsable scientifique du projet PREDICT : Programme de Recherche et d’Évaluation des Dispositifs Interactifs Culturels et Touristiques.</p>
+          </note>
+          <keywords>
+            <term>mediation</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Lise</forename>
+            <surname>Renaud</surname>
+          </persName>
+          <affiliation>
+            <orgName>Avignon Université</orgName>
+            <country>France</country>
+          </affiliation>
+          <note>
+            <p>Depuis sa prise de fonction à Avignon Université (2013), elle encadre des enquêtes quantitatives et qualitatives sur les publics de musées et de sites patrimoniaux dans le cadre de Muséocom.</p>
+            <p>Depuis 2013, ses recherches portent plus spécifiquement sur les politiques de numérisation des institutions patrimoniales. Ses travaux interrogent les stratégies et logiques de conception, les imaginaires des écrans et les écritures numériques des patrimoines.</p>
+          </note>
+          <idno type="lab"
+            >https://centrenorbertelias.cnrs.fr/equipes-de-recherche/chercheurs/lise-renaud/</idno>
+          <keywords>
+            <term>digital museology</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Eva</forename>
+            <surname>Sandri</surname>
+          </persName>
+          <affiliation>
+            <orgName>Université Paul Valéry</orgName>
+          </affiliation>
+          <idno type="lab">https://www.lerass.com/author/esandri/</idno>
+          <note>
+            <p>Eva Sandri est maîtresse de conférences en sciences de l’information et de la communication à l’université Paul Valéry Montpellier 3 (équipes de recherche LERASS et GRIPIC). Ses recherches portent sur les enjeux actuels de la médiation culturelle et sur l’imaginaire des dispositifs numériques au musée. Elle a récemment publié l’ouvrage : Les imaginaires numériques au musée, aux éditions MkF, 2020. Elle a également coordonné le Supplément : « Les injonctions dans les institutions culturelles : ajustements et prescriptions » dans la revue : Les Enjeux de l’information et de la communication, en 2019.</p>
+            <list>
+              <item>La médiation culturelle et documentaire face aux enjeux de la culture numérique</item>
+              <item>Les discours sur l'innovation dans le domaine culturel</item>
+              <item>L'imaginaire des dispositifs numériques au musée</item>
+              <item>Les discriminations de genre dans le milieu culturel</item>
+            </list>
+          </note>
+          <keywords>
+            <term>digital museology</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Stuart</forename>
+            <surname>James</surname>
+          </persName>
+          <idno type="perso">https://stuart-james.com</idno>
+          <note>
+            <p>Researcher (Assistant Professor) in Computer Vision at the Istituto Italiano di Tecnologia (IIT). Stuart's research focus is on Visual Reasoning to understand the layout of visual content from Iconography (e.g. Sketches) to 3D Scene understanding and their implications on methods of interaction. He is a PI on the MEMEX RIA EU H2020 project for increasing social inclusion with Cultural Heritage and Co-PI on the RePAIR EU FET H2020 project for the reconstruction of frescoes. Stuart has previously held PostDoc positions at IIT, University College London (UCL) and the University of Surrey. Also, at the University of Surrey, Stuart was awarded his PhD on visual information retrieval for sketches. Stuart continues to hold an honorary position at UCL and UCL Digital Humanities. He also regularly organises workshops and conferences, most recently the Vision for Art (VISART) Workshop at ECCV'20 and British Machine Conference (BMVC) 2021.</p>
+          </note>
+          <keywords>
+            <term>IA</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Amanda</forename>
+            <surname>Wasielewski</surname>
+          </persName>
+          <idno type="perso">https://www.amandawasielewski.com</idno>
+          <keywords>
+            <term>IA</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Anne</forename>
+            <surname>Luther</surname>
+          </persName>
+          <idno type="perso">https://anneluther.info</idno>
+          <note>
+            <p>Dr. Anne Luther is a specialist for digital heritage and a digital humanities scholar. Her work applies technology, design and humanities research for the interaction, exploration and opening of cultural heritage preserved and represented in digital data. She is the founder of The Institute for Digital Heritage and Principal Investigator for Digital Benin, leading the development of a digital platform which brings together rich documentation from collections worldwide to provide a long-requested overview of the royal artworks looted in the 19th century from the Kingdom of Benin.</p>
+          </note>
+          <keywords>
+            <term>digital museology</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Lukas</forename>
+            <surname>Fuchsgruber</surname>
+          </persName>
+          <affiliation>
+            <orgName>TU Berlin</orgName>
+            <country>Germany</country>
+          </affiliation>
+          <note>
+            <p>Lukas Fuchsgruber is an art historian at TU Berlin. His research focuses on digitization in museums, photo archives, and the history of the art market. Since 2020 he is part of the research network “Museum and Society – Mapping the Social”. His case study in the project focuses on the question of museums and data policy, especially on the design of interfaces and the production and dissemination of museum data. In 2021 he was part of an open source project that released an community oriented archive interface: cooArchi. He is a guest researcher at the Museum für Naturkunde Berlin.</p>
+          </note>
+          <keywords>
+            <term>digital museology</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Peter</forename>
+            <surname>Bell</surname>
+          </persName>
+          <affiliation>
+            <orgName>Philipps-Universität Marburg</orgName>
+            <country>Germany</country>
+          </affiliation>
+          <idno type="academic">https://www.uni-marburg.de/de/fb09/khi/institut/lehrende-seiten-und-bilder/prof-dr-peter-bell</idno>
+          <keywords>
+            <term>IA</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Leonardo</forename>
+            <surname>Impett</surname>
+          </persName>
+          <affiliation>
+            <orgName>Cambridge</orgName>
+            <country>United Kingdom</country>
+          </affiliation>
+          <affiliation>
+            <orgName>Cambridge Digital Humanities</orgName>
+            <idno type="uri">https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/</idno>
+          </affiliation>
+          <note>
+            <p>Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab’s Rainbow Group, and Microsoft Research Cairo. His Ph.D., with Sabine Süsstrunk and Franco Moretti at EPFL, was on the use of computer vision for the “distant reading” of the history of art. In 2018 Leonardo was a DH fellow at Villa I Tatti – the Harvard University Center for Italian Renaissance Studies, from 2018-2020 he was Scientific Assistant, then Scientist, at the Bibliotheca Hertziana – Max Planck Institute for Art History in Rome. Alongside his research in digital art history, he frequently works with machine learning in arts and culture, including for the Liverpool Biennial, the Royal Opera House, and the Whitney Museum of American Art.</p> 
+          </note>
+          <idno type="lab">https://www.crassh.cam.ac.uk/about/people/leonardo-impett/</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Sébastien</forename>
+            <surname>Appiotti</surname>
+          </persName>
+          <affiliation>
+            <orgName>CELSA</orgName>
+            <idno type="uri">http://www.celsa.fr/celsa-equipe-pedagogique-FC.php</idno>
+            <idno type="blog">https://imanum.hypotheses.org</idno>
+          </affiliation>
+          
+        </person>
+        <person>
+          <persName></persName>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
