@@ -493,6 +493,23 @@
           <orgName>Culturepedia</orgName>
           <idno>https://www.culturepourtous.ca/professionnels-de-la-culture/mutualisation/</idno>
         </org>
+        <org>
+          <orgName>Digital Stories Canada</orgName>
+          <idno>https://digitalstories.ca</idno>
+          <desc>
+            <p>Digital Stories Canada is dedicated to the art of community digital storytelling with a Canadian connection. Many of these stories were created during workshops sponsored by Vancouver’s grunt gallery in collaboration with Lorna Boschman and Sebnem Ozpeta. The Community Digital Storytelling Initiative shares insights and tutorials here too. Recent projects are below.</p>
+          </desc>
+          <keywords>
+            <term>digital storytelling</term>
+          </keywords>
+        </org>
+        <org>
+          <orgName>Archive Lab</orgName>
+          <idno>https://archivelab.org</idno>
+          <desc>
+            <p>Archive Labs is a volunteer community which incubates open-access, public-good initiatives.</p>
+          </desc>
+        </org>
       </listOrg>
     </body>
   </text>
