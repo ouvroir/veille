@@ -40,7 +40,7 @@ XML Bookmark Exchange Language. C'est : "an Internet "bookmarks" interchange for
 ### Lecture de Researchers.xml 
 
 **Potentielles tâches :** 
-- [ ] rendre les métadonnées plus inclusives
+- [x] rendre les métadonnées plus inclusives
 - [x] ~~faire un test sur les URL invalides dans la liste (`//idno/@type="academic"` et `//idno/@type="github"` et `//idno/@type="lab"` et `//idno/@type="perso"` et `//idno/@type="linkedin"` et `//idno/@type="uri"`), voir s'il faut les mettre à jour~~
 - [ ] faire un test sur les handles Twitter (`//idno/@type="twitter"`), voir s'ils sont toujours actifs (nota: c'est plus difficile à faire sans l'API Twitter désormais)
 - [ ] garder en tête pour plus tard que les bio devraient peut-être être mises à jour (mais c'est un gros chantier que l'on peut faire plus tard, une fois que les données sont structurées)
