@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="blogs">
+      <oneOrMore>
+        <element name="website">
+          <element name="title">
+            <text/>
+          </element>
+          <oneOrMore>
+            <choice>
+              <element name="description">
+                <oneOrMore>
+                  <choice>
+                    <text/>
+                    <element name="p">
+                      <text/>
+                    </element>
+                  </choice>
+                </oneOrMore>
+              </element>
+              <element name="url">
+                <data type="anyURI"/>
+              </element>
+            </choice>
+          </oneOrMore>
+          <optional>
+            <element name="twitter">
+              <text/>
+            </element>
+          </optional>
+          <optional>
+            <choice>
+              <element name="email">
+                <text/>
+              </element>
+              <element name="rss">
+                <data type="anyURI"/>
+              </element>
+              <element name="tags">
+                <oneOrMore>
+                  <element name="tag">
+                    <text/>
+                  </element>
+                </oneOrMore>
+              </element>
+            </choice>
+          </optional>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

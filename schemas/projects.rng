@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="TEI">
+      <element name="teiHeader">
+        <element name="fileDesc">
+          <element name="titleStmt">
+            <ref name="title"/>
+            <element name="principal">
+              <element name="forename">
+                <data type="NCName"/>
+              </element>
+              <element name="surname">
+                <data type="NCName"/>
+              </element>
+              <element name="affiliation">
+                <ref name="orgName"/>
+              </element>
+              <ref name="idno"/>
+            </element>
+          </element>
+          <element name="publicationStmt">
+            <element name="authority">
+              <text/>
+            </element>
+          </element>
+          <element name="sourceDesc">
+            <ref name="p"/>
+          </element>
+        </element>
+      </element>
+      <element name="text">
+        <element name="body">
+          <element name="listOrg">
+            <element name="head">
+              <text/>
+            </element>
+            <oneOrMore>
+              <choice>
+                <element name="org">
+                  <optional>
+                    <ref name="title"/>
+                  </optional>
+                  <choice>
+                    <ref name="url"/>
+                    <element name="objectName">
+                      <text/>
+                    </element>
+                    <zeroOrMore>
+                      <ref name="orgName"/>
+                    </zeroOrMore>
+                  </choice>
+                  <zeroOrMore>
+                    <choice>
+                      <ref name="country"/>
+                      <ref name="desc"/>
+                      <ref name="idno"/>
+                    </choice>
+                  </zeroOrMore>
+                  <optional>
+                    <element name="note">
+                      <oneOrMore>
+                        <ref name="p"/>
+                      </oneOrMore>
+                    </element>
+                  </optional>
+                  <optional>
+                    <ref name="categories"/>
+                  </optional>
+                  <optional>
+                    <choice>
+                      <ref name="tags"/>
+                      <element name="keywords">
+                        <oneOrMore>
+                          <element name="term">
+                            <text/>
+                          </element>
+                        </oneOrMore>
+                      </element>
+                    </choice>
+                  </optional>
+                </element>
+                <element name="website">
+                  <oneOrMore>
+                    <ref name="title"/>
+                  </oneOrMore>
+                  <optional>
+                    <ref name="desc"/>
+                  </optional>
+                  <oneOrMore>
+                    <choice>
+                      <ref name="country"/>
+                      <ref name="url"/>
+                      <element name="description">
+                        <oneOrMore>
+                          <ref name="p"/>
+                        </oneOrMore>
+                      </element>
+                      <element name="twitter">
+                        <data type="anyURI"/>
+                      </element>
+                    </choice>
+                  </oneOrMore>
+                  <optional>
+                    <ref name="categories"/>
+                  </optional>
+                  <optional>
+                    <ref name="tags"/>
+                  </optional>
+                </element>
+              </choice>
+            </oneOrMore>
+          </element>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="title">
+    <element name="title">
+      <text/>
+    </element>
+  </define>
+  <define name="orgName">
+    <element name="orgName">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  <define name="idno">
+    <element name="idno">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <data type="anyURI"/>
+    </element>
+  </define>
+  <define name="p">
+    <element name="p">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <element name="list">
+            <oneOrMore>
+              <element name="item">
+                <text/>
+              </element>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="url">
+    <element name="url">
+      <data type="anyURI"/>
+    </element>
+  </define>
+  <define name="desc">
+    <element name="desc">
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="country">
+    <element name="country">
+      <data type="NCName"/>
+    </element>
+  </define>
+  <define name="categories">
+    <element name="categories">
+      <element name="category">
+        <data type="NCName"/>
+      </element>
+    </element>
+  </define>
+  <define name="tags">
+    <element name="tags">
+      <oneOrMore>
+        <element name="tag">
+          <text/>
+        </element>
+      </oneOrMore>
+    </element>
+  </define>
+</grammar>
