@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Liste de chercheurs en histoire de l’art et muséologie numériques</title>
+        <title>Liste de chercheurs et chercheurses en histoire de l’art et muséologie numériques</title>
         <principal>
           <forename>Emmanuel</forename>
           <surname>Château-Dutier</surname>
@@ -12,6 +12,10 @@
           </affiliation>
           <idno type="orcid"></idno>
         </principal>
+        <respStmt>
+          <resp>révisé par</resp>
+          <name>Alix Chagué</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Ouvroir d’histoire de l’art et de muséologie numériques</authority>
@@ -24,7 +28,7 @@
   <text>
     <body>
       <listPerson>
-        <head>Liste de chercheurs en histoire de l’art et muséologie numériques</head>
+        <head>Liste de chercheurs et chercheurses en histoire de l’art et muséologie numériques</head>
         <person>
           <persName>
             <forename>Chiara</forename>

@@ -3,12 +3,20 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Liste de chercheurs en histoire de l’art et muséologie numériques</title>
+        <!--<title>Liste de chercheurs et chercheurses en histoire de l’art et muséologie numériques</title>-->
+        <title>Liste de projets en histoire de l’art et muséologie numériques</title>
         <principal>
           <forename>Emmanuel</forename>
           <surname>Château-Dutier</surname>
-          <affiliation> <orgName>Université de Montréal</orgName> </affiliation> <idno type="orcid"
-           /> </principal>
+          <affiliation> 
+            <orgName>Université de Montréal</orgName> 
+          </affiliation> 
+          <idno type="orcid" /> 
+        </principal>
+        <respStmt>
+          <resp>révisé par</resp>
+          <name>Alix Chagué</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Ouvroir d’histoire de l’art et de muséologie numériques</authority>
@@ -22,7 +30,7 @@
     <body>
       <!-- XBEL http://xbel.sourceforge.net -->
       <listOrg>
-        <head>Liste de projets</head>
+        <head>Liste de projets en histoire de l’art et muséologie numériques</head>
         <org>
           <orgName>The Heritage Lab</orgName>
           <country>Europe</country>
