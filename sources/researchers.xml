@@ -10,7 +10,7 @@
           <affiliation>
             <orgName>Université de Montréal</orgName>
           </affiliation>
-          <idno type="orcid"></idno>
+          <idno type="orcid">https://orcid.org/0000-0003-4092-4569</idno>
         </principal>
       </titleStmt>
       <publicationStmt>
@@ -307,10 +307,17 @@
             <idno type="uri">http://www.celsa.fr/celsa-equipe-pedagogique-FC.php</idno>
             <idno type="blog">https://imanum.hypotheses.org</idno>
           </affiliation>
-          
         </person>
         <person>
-          <persName></persName>
+          <persName>
+            <forename>Susan</forename>
+            <surname>Hazan</surname>
+          </persName>
+          <affiliation>
+            <orgName>Digital Heritage, Israel</orgName>
+            <roleName>CEO</roleName>
+          </affiliation>
+          <idno type="linkedin">https://il.linkedin.com/in/susanhazan</idno>
         </person>
       </listPerson>
     </body>

@@ -7,8 +7,11 @@
         <principal>
           <forename>Emmanuel</forename>
           <surname>Château-Dutier</surname>
-          <affiliation> <orgName>Université de Montréal</orgName> </affiliation> <idno type="orcid"
-           /> </principal>
+          <affiliation>
+            <orgName>Université de Montréal</orgName>
+          </affiliation>
+          <idno type="orcid">https://orcid.org/0000-0003-4092-4569</idno>
+        </principal>
       </titleStmt>
       <publicationStmt>
         <authority>Ouvroir d’histoire de l’art et de muséologie numériques</authority>
@@ -160,276 +163,276 @@
             <tag>digital humanities</tag>
           </tags>
         </org>
-        <website>
-          <title>Linked Infrastructure for Networked Cultural Scholarship (LINCS)</title>
-          <description>
+        <org>
+          <orgName>Linked Infrastructure for Networked Cultural Scholarship (LINCS)</orgName>
+          <note>
             <p>LINCS will create the conditions to think differently, with machines, about culture in Canada. Human brains work through a vast web of interconnections, but the web that researchers increasingly use to understand culture and history has few meaningful links. LINCS will convert and interlink Canadian research datasets on cultural identities and cultural heritage, making them accessible as Linked Open Data for the benefit of scholars and the public. </p>
-          </description>
+          </note>
+          <idno>https://lincsproject.ca</idno>
           <country>Canada</country>
-          <url>https://lincsproject.ca</url>
           <categories>
             <category>infrastructure</category>
           </categories>
           <tags>
             <tag>digital humanities</tag>
           </tags>
-        </website>
-        <website>
-          <title>Artefact Lab</title>
-          <description>
+        </org>
+        <org>
+          <orgName>Artefact Lab</orgName>
+          <note>
             <p>Le laboratoire Artefact est un espace de recherche et d’exploration en études médiatiques au sein du Département de communication à l’Université de Montréal. Privilégiant la réflexion sur les matérialités des médias à travers diverses périodes temporelles, échelles, cultures et pratiques, les travaux des chercheur.e.s affilié.e.s se situent à l’intersection des axes de recherche suivants :<list>
               <item>Espaces, environnements et milieux médiatiques</item>
               <item>Philosophie et épistémologie des arts, de la science et de la technique</item>
               <item>Infrastructures et technologies numériques émergentes</item>
               </list></p>
-          </description>
+          </note>
           <country>Québec</country>
-          <url>https://artefactlab.ca</url>
+          <idno>https://artefactlab.ca</idno>
           <categories>
             <category>lab</category>
           </categories>
           <tags>
             <tag>digital humanities</tag>
           </tags>
-        </website>
-        <website>
-          <title>Bricolab</title>
-          <description>
+        </org>
+        <org>
+          <orgName>Bricolab</orgName>
+          <note>
             <p>Le Bricolab est un espace de production et d’expérimentation numérique au Département de communication à l’UdeM. Il a pour vocation de renforcer les pratiques de pédagogie active en permettant le prototypage et la spéculation, la fabrication critique (critical making) et le bricolage expérimental, et d’appuyer les projets de recherche-création des étudiant.e.s ainsi que des professeur.e.s. Il favorise l’exploration des formes et des pratiques du numérique à travers des démarches et connaissances transdisciplinaires, collaboratives, critiques et engagées, tant informées par l’apprentissage concret (hands-on) que par les méthodes classiques de la recherche en sciences sociales et humaines.</p>
-          </description>
+          </note>
           <country>Québec</country>
-          <url>https://bricolab.org</url>
+          <idno>https://bricolab.org</idno>
           <categories>
             <category>lab</category>
           </categories>
           <tags>
             <tag>fablab</tag>
           </tags>
-        </website>
-        <website>
-          <title>Stratégie de numérisation du patrimoine documentaire (SNPD)</title>
-          <title>National Heritage Digitization Strategy (NHDS)</title>
-          <description>
+        </org>
+        <org>
+          <orgName>Stratégie de numérisation du patrimoine documentaire (SNPD)</orgName>
+          <orgName>National Heritage Digitization Strategy (NHDS)</orgName>
+          <note>
             <p>Documentary heritage is a cornerstone of all democratic societies. It supports economic, social, legal understanding and cultural growth, while also fostering innovation to ensure a strong future. Digital technologies make it possible for memory institutions to provide immediate access to their holdings to an almost limitless audience.</p>
             <p>Canadian memory institutions are working together to find ways to improve access to digital collections and better preserve our cultural heritage.</p>
-          </description>
+          </note>
           <country>Canada</country>
-          <url>https://nhds.ca</url>
-        </website>
-        <website>
-          <title>Réseau canadien de documentation pour la recherche (RCDR)</title>
-          <title>Canadian Research Knowledge Network (CRKN)</title>
-          <url>https://www.crkn-rcdr.ca</url>
-        </website>
-        <website>
-          <title>Patrimoine et numérique</title>
-          <url>https://www.patrimoine-et-numerique.fr</url>
-        </website>
-        <website>
-          <title>DIDPATRI</title>
-          <description>
+          <idno>https://nhds.ca</idno>
+        </org>
+        <org>
+          <orgName>Réseau canadien de documentation pour la recherche (RCDR)</orgName>
+          <orgName>Canadian Research Knowledge Network (CRKN)</orgName>
+          <idno>https://www.crkn-rcdr.ca</idno>
+        </org>
+        <org>
+          <orgName>Patrimoine et numérique</orgName>
+          <idno>https://www.patrimoine-et-numerique.fr</idno>
+        </org>
+        <org>
+          <orgName>DIDPATRI</orgName>
+          <note>
             <p>DIDPATRI - Didàctica del Patrimoni, Museografia Comprensiva i Noves Tecnologies.  Grup de recerca consolidat de la Universitat de Barcelona.</p>
             <p>The research group DIDPATRI is based at the Department of Didactics on Social Sciences of the University of Barcelona. Its members have a long trajectory of research in the fields of education in Social Sciences and the Humanities both at the theoretical and at the practical levels. They have applied their research outcomes to a range of knowledge fields including History, Archaeology and Cultural Heritage for over 20 years.</p>
             <p>DIDPATRI pioneered the development of museum studies through the proposal and analysis of new forms of public engagement. The group started its activity during the period 1995-1996 as part of the design team responsible of the Museum of the History of Catalonia (MHCAT) and the reconstruction of the Iberian Citadel of Calafell. During these years the group was formally created at the University of Barcelona and in 2005 it became a recognised research group within the government of Catalonia’s Support program SGR (2005SGR00621). DIDPATRI has continuously been distinguished with this award until now (2009SGR00245; 2014SGR945; 2017SGR550).</p>
-          </description>
-          <twitter>@DIDPATRI</twitter>
-          <url>https://www.didpatri.cat</url>
-        </website>
-        <website>
-          <title>AEOLIAN (Artificial Intelligence for Cultural Organisations)</title>
-          <description>
+          </note>
+          <idno type="twitter">@DIDPATRI</idno>
+          <idno>https://www.didpatri.cat</idno>
+        </org>
+        <org>
+          <orgName>AEOLIAN (Artificial Intelligence for Cultural Organisations)</orgName>
+          <note>
             <p>AEOLIAN (Artificial Intelligence for Cultural Organisations) is funded by a joint programme between the US National Endowment for the Humanities (NEH) and the Arts and Humanities Research Council (AHRC) in the UK (more information about the programme can be found here). Our Project Partners include the National Library of Scotland; the National Library of Wales; the Wellcome Collection; the History of Parliament Trust; Harvard’s Houghton Library; Yale’s Digital Preservation team and Music Library; Indiana University Libraries; University of North Carolina at Chapel Hill Libraries; Educopia; Frick Collection (NYC).</p>
             <p>The AEOLIAN network is designed to investigate the role that Artificial Intelligence (AI) can play to make born-digital and digitised cultural records more accessible to users. AI and machine learning applied to data in libraries and other cultural institutions are at the centre of current debates in the US and the UK. Drawing on the booming interest in new technologies applied to digital cultural assets, AEOLIAN will make a ground-breaking contribution to this field through carefully-structured workshops, innovative research outputs, and the creation of an international network of theorists and practitioners working with born-digital and digitised archives.</p>
-          </description>
+          </note>
           <url>https://www.aeolian-network.net</url>
-        </website>
-        <website>
-          <title>ai4lam</title>
-          <url>https://sites.google.com/view/ai4lam</url>
-        </website>
-        <website>
-          <title>International GLAM Labs community</title>
-          <url>https://glamlabs.io</url>
-        </website>
-        <website>
-          <title>Digital Heritage</title>
-          <description>
+        </org>
+        <org>
+          <orgName>ai4lam</orgName>
+          <idno>https://sites.google.com/view/ai4lam</idno>
+        </org>
+        <org>
+          <orgName>International GLAM Labs community</orgName>
+          <idno>https://glamlabs.io</idno>
+        </org>
+        <org>
+          <orgName>Digital Heritage</orgName>
+          <note>
             <p>The IDH opens access to digital information about culture, artifacts, traditions and materiality to empower engagement, learning and knowledges.</p>
-          </description>
-          <url>https://www.institutefordigitalheritage.org</url>
-        </website>
-        <website>
-          <title>Library Innovation Lab</title>
-          <url>https://lil.law.harvard.edu/</url>
-        </website>
-        <website>
-          <title>Pre Post Print</title>
-          <url>https://prepostprint.org/</url>
-        </website>
-        <website>
-          <title>Résiliance des territoires</title>
-          <url>https://wiki.resilience-territoire.ademe.fr/</url>
-        </website>
-        <website>
-          <title>Resnumerica</title>
-          <url>https://wiki.resnumerica.org/</url>
-        </website>
-        <website>
-          <title>Digitorials</title>
-          <description>
+          </note>
+          <idno>https://www.institutefordigitalheritage.org</idno>
+        </org>
+        <org>
+          <orgName>Library Innovation Lab</orgName>
+          <idno>https://lil.law.harvard.edu/</idno>
+        </org>
+        <org>
+          <orgName>Pre Post Print</orgName>
+          <idno>https://prepostprint.org/</idno>
+        </org>
+        <org>
+          <orgName>Résiliance des territoires</orgName>
+          <idno>https://wiki.resilience-territoire.ademe.fr/</idno>
+        </org>
+        <org>
+          <orgName>Resnumerica</orgName>
+          <idno>https://wiki.resnumerica.org/</idno>
+        </org>
+        <org>
+          <orgName>Digitorials</orgName>
+          <note>
             <p>Un musée doit être là où sont ses visiteurs. Et cela inclut l’espace numérique aujourd’hui. Le projet digitorials.ch a été créé à l’initiative du Migros Pioneer Fund afin que les musées suisses puissent réussir leur saut dans le monde numérique.</p>
             <p>Après avoir développé et mis en œuvre des stratégies numériques individuelles avec des musées sélectionnés, le projet est maintenant étendu à l’échelle nationale. Les organismes de financement doivent également être activement impliqués à l’avenir. Ensemble, ils souhaitent découvrir comment le soutien aux musées et aux institutions culturelles peut être encore mieux adapté aux défis du changement numérique.</p>
-          </description>
-          <url>https://digitorials.ch</url>
-        </website>
-        <website>
-          <title>Monument Lab</title>
-          <url>https://monumentlab.com</url>
-        </website>
-        <website>
-          <title>C2DH</title>
-          <description>
+          </note>
+          <idno>https://digitorials.ch</idno>
+        </org>
+        <org>
+          <orgName>Monument Lab</orgName>
+          <idno>https://monumentlab.com</idno>
+        </org>
+        <org>
+          <orgName>C2DH</orgName>
+          <note>
             <p>The Luxembourg Centre for Contemporary and Digital History (C²DH) is the University of Luxembourg’s third interdisciplinary research centre, focusing on high-quality research, analysis and public dissemination in the field of contemporary Luxembourgish and European history. It promotes an interdisciplinary approach with a particular focus on new digital methods and tools for historical research and teaching.</p>
-          </description>
-          <url>https://www.c2dh.uni.lu</url>
-        </website>
-        <website>
-          <title>DH-Dev</title>
-          <url>https://www.dh-dev.com</url>
-        </website>
-        <website>
-          <title>Critical Media Lab</title>
-          <url>https://criticalmedia.uwaterloo.ca/crimelab/</url>
-        </website>
-        <website>
-          <title>Adochs</title>
-          <description>
+          </note>
+          <idno>https://www.c2dh.uni.lu</idno>
+        </org>
+        <org>
+          <orgName>DH-Dev</orgName>
+          <idno>https://www.dh-dev.com</idno>
+        </org>
+        <org>
+          <orgName>Critical Media Lab</orgName>
+          <idno>https://criticalmedia.uwaterloo.ca/crimelab/</idno>
+        </org>
+        <org>
+          <orgName>Adochs</orgName>
+          <note>
             <p>The ADOCHS (Auditing Digitalization Outputs in the Cultural Heritage Sector) project is dedicated to the improvement of the quality control process concerning the digitized heritage collections. On the basis of written and iconographic sources, the team will develop methodological and technical tools needed to guarantee a control of the quality of the technical aspects and of the quality of the metadata.</p>
-          </description>
-          <url>http://adochs.be</url>
-        </website>
-        <website>
-          <title>ReSeed. Retro-conception sémantique d'objets patrimoniaux digitaux</title>
-          <url>http://www.reseed.fr/</url>
-        </website>
-        <website>
-          <title>Library Carpentry</title>
-          <url>https://librarycarpentry.org/</url>
-        </website>
-        <website>
-          <title>The Museums + AI Network</title>
-          <url>https://themuseumsai.network/</url>
-        </website>
-        <website>
-          <title>The Mainteners</title>
-          <url>https://themaintainers.org/</url>
-        </website>
-        <website>
-          <title>Collections as Data - Part to Whole</title>
-          <url>https://collectionsasdata.github.io/part2whole/</url>
-        </website>
-        <website>
-          <title>Things That Talk... Exploring humanities through the life of objects</title>
-          <desc>
+          </note>
+          <idno>http://adochs.be</idno>
+        </org>
+        <org>
+          <orgName>ReSeed. Retro-conception sémantique d’objets patrimoniaux digitaux</orgName>
+          <idno>http://www.reseed.fr/</idno>
+        </org>
+        <org>
+          <orgName>Library Carpentry</orgName>
+          <idno>https://librarycarpentry.org/</idno>
+        </org>
+        <org>
+          <orgName>The Museums + AI Network</orgName>
+          <idno>https://themuseumsai.network/</idno>
+        </org>
+        <org>
+          <orgName>The Mainteners</orgName>
+          <idno>https://themaintainers.org/</idno>
+        </org>
+        <org>
+          <orgName>Collections as Data - Part to Whole</orgName>
+          <idno>https://collectionsasdata.github.io/part2whole/</idno>
+        </org>
+        <org>
+          <orgName>Things That Talk... Exploring humanities through the life of objects</orgName>
+          <note>
             <p>Things—the objects, tools, and artifacts of everyday life—are the material expression of human experience. Without them, we would lose track of what makes us who we are. Things outlast us, and we rely on them to tell our stories when we are gone. Things That Talk is a place for learning the language of objects from the full sweep of humanity. It is a durable, living archive of stories about the interconnected world of things. And it invites ongoing collaboration from a diverse range of communities. The platform facilitates storytelling by giving contributors all the basic curation, sequencing, and visual tools they need to narrate an object. And those tools are also evolving.</p>
-          </desc>
-          <url>https://thingsthattalk.net</url>
-        </website>
-        <website>
-          <title>GLAM WorkBench</title>
-          <url>https://glam-workbench.net</url>
-        </website>
-        <website>
-          <title>Centre for Creative and Cultural Research</title>
-          <url>https://www.canberra.edu.au/research/faculty-research-centres/cccr</url>
-        </website>
-        <website>
-          <title>Yale DHLab</title>
-          <url>https://dhlab.yale.edu</url>
-        </website>
-        <website>
-          <title>Cambridge Digital Humanities</title>
-          <url>https://www.cdh.cam.ac.uk</url>
-        </website>
-        <website>
-          <title>Berkeley Visualization Lab for Digital Art History</title>
-          <url>https://arthistory.berkeley.edu/resources/visual-resources-center/</url>
-        </website>
-        <website>
-          <title>The Platform Lab</title>
-          <url>https://www.theplatformlab.com</url>
-        </website>
-        <website>
-          <title>Exposing the Invisible</title>
-          <url>https://exposingtheinvisible.org</url>
-        </website>
-        <website>
-          <title>Open source design</title>
-          <url>https://opensourcedesign.net</url>
+          </note>
+          <idno>https://thingsthattalk.net</idno>
+        </org>
+        <org>
+          <orgName>GLAM WorkBench</orgName>
+          <idno>https://glam-workbench.net</idno>
+        </org>
+        <org>
+          <orgName>Centre for Creative and Cultural Research</orgName>
+          <idno>https://www.canberra.edu.au/research/faculty-research-centres/cccr</idno>
+        </org>
+        <org>
+          <orgName>Yale DHLab</orgName>
+          <idno>https://dhlab.yale.edu</idno>
+        </org>
+        <org>
+          <orgName>Cambridge Digital Humanities</orgName>
+          <idno>https://www.cdh.cam.ac.uk</idno>
+        </org>
+        <org>
+          <orgName>Berkeley Visualization Lab for Digital Art History</orgName>
+          <idno>https://arthistory.berkeley.edu/resources/visual-resources-center/</idno>
+        </org>
+        <org>
+          <orgName>The Platform Lab</orgName>
+          <idno>https://www.theplatformlab.com</idno>
+        </org>
+        <org>
+          <orgName>Exposing the Invisible</orgName>
+          <idno>https://exposingtheinvisible.org</idno>
+        </org>
+        <org>
+          <orgName>Open source design</orgName>
+          <idno>https://opensourcedesign.net</idno>
           <tags>
             <tag>design</tag>
           </tags>
-        </website>
-        <website>
-          <title>Das digitale bild</title>
-          <url>https://www.digitalesbild.gwi.uni-muenchen.de</url>
-        </website>
-        <website>
-          <title>Datactivist</title>
-          <url>https://datactivist.coop</url>
-        </website>
-        <website>
-          <title>Chaire L.R. Wilson. Droits des technologies de l’information et du commerce électronique</title>
-          <url>https://www.chairelrwilson.ca</url>
-        </website>
-        <website>
-          <title>Chaire Fernand-Dumont sur la culture</title>
-          <url>http://www.chairefernanddumont.ucs.inrs.ca</url>
-        </website>
-        <website>
-          <title>Urban Theory Lab</title>
-          <url>http://archive.urbantheorylab.net/publications/</url>
-        </website>
-        <website>
-          <title>Provenance lab</title>
-          <description>
+        </org>
+        <org>
+          <orgName>Das digitale bild</orgName>
+          <idno>https://www.digitalesbild.gwi.uni-muenchen.de</idno>
+        </org>
+        <org>
+          <orgName>Datactivist</orgName>
+          <idno>https://datactivist.coop</idno>
+        </org>
+        <org>
+          <orgName>Chaire L.R. Wilson. Droits des technologies de l’information et du commerce électronique</orgName>
+          <idno>https://www.chairelrwilson.ca</idno>
+        </org>
+        <org>
+          <orgName>Chaire Fernand-Dumont sur la culture</orgName>
+          <idno>http://www.chairefernanddumont.ucs.inrs.ca</idno>
+        </org>
+        <org>
+          <orgName>Urban Theory Lab</orgName>
+          <idno>http://archive.urbantheorylab.net/publications/</idno>
+        </org>
+        <org>
+          <orgName>Provenance lab</orgName>
+          <note>
             <p>The Provenance Lab at Leuphana University Lüneburg, Germany, is an interdisciplinary research and teaching hub for experimental knowledge production in a field it aims to shape significantly: provenance studies. The Lab is founded and headed by Prof. Dr. Lynn Rother, who brings over a decade of experience in provenance research and practice to the project. At Leuphana, she holds a prestigious Lichtenberg-Professorship.</p>
             <p>At the Lab, which operates at the intersection of provenance research and data science, we aim to explore new methodologies, refine existing data models, and develop new standards for the analysis of digital provenance information on a large scale. These undertakings will help to realize the still untapped scientific potential of provenance research, which is being undertaken daily by researchers around the globe. Indeed, here at the lab, we consider provenance information beyond individual object biographies and read them more broadly as empirical evidence of cultural and social phenomena across time and space.</p>
             <p>The Provenance Lab is funded by the Volkswagen Foundation (VolkswagenStiftung) and Leuphana University.</p>
-          </description>
+          </note>
           <url>https://provenance.hypotheses.org</url>
           <twitter>https://twitter.com/provenance_lab</twitter>
           <tags>
             <tag>provenance</tag>
             <tag>museologie</tag>
           </tags>
-        </website>
-        <website>
-          <title>Institut za povijest umjetnosti</title>
-          <description>
+        </org>
+        <org>
+          <orgName>Institut za povijest umjetnosti</orgName>
+          <note>
             <p>Organisateur de Conference Digital Art History</p>
-          </description>
-          <url>https://www.ipu.hr/index.php?lang=en</url>
-        </website>
-        <website>
-          <title>Heritage Research Hub</title>
-          <description>
+          </note>
+          <idno>https://www.ipu.hr/index.php?lang=en</idno>
+        </org>
+        <org>
+          <orgName>Heritage Research Hub</orgName>
+          <note>
             <p>On September 1st, 2022, the ARCHE project (Alliance for Research on Cultural Heritage in Europe) officially started. Funded by the European Commission and gathering 24 partners from 18 European countries for three years, it will develop a pan European framework for a holistic approach to Cultural Heritage Research and Innovation, by creating a spearheading coordination network of researchers, innovators, heritage professionals, institutional bodies and citizens.</p>
             <p>With the Fondation des Sciences du Patrimoine as project coordinator and a budget of three millions euros, this Coordination and Support Action (CSA) will engage all Cultural Heritage actors in member States / Associated Countries in the co-design of Research and Innovation strategies and roadmaps that lead to Research and Innovation initiatives requiring multidisciplinary approaches and skills.</p>
-          </description>
-          <url>https://www.heritageresearch-hub.eu</url>
+          </note>
+          <idno>https://www.heritageresearch-hub.eu</idno>
           <tags>
             <tag>patrimoine</tag>
           </tags>
-        </website>
-        <website>
-          <title>Cultural AI</title>
-          <url>https://www.cultural-ai.nl</url>
-          <description>
+        </org>
+        <org>
+          <orgName>Cultural AI</orgName>
+          <idno>https://www.cultural-ai.nl</idno>
+          <note>
             <p>Cultural AI is the study, design and development of socio-technological AI systems that are implicitly or explicitly aware of the subtle and subjective complexity of human culture.</p>
             <p>It is as much about using AI for understanding human culture as it is about using knowledge and expertise from the humanities to analyse and improve AI technology. It studies how to deal with input and output data in the context of the intended (or other) application areas, how to deal with cultural bias in data and technology and how to build AI technology that is optimised for cultural and ethical values.</p>
-          </description>
-        </website>
+          </note>
+        </org>
         <org>
           <title>Digital Art History Society</title>
           <url>https://digitalarthistorysociety.org</url>
@@ -509,6 +512,10 @@
           <desc>
             <p>Archive Labs is a volunteer community which incubates open-access, public-good initiatives.</p>
           </desc>
+        </org>
+        <org>
+          <orgName>Laboratoire numérique d’études sur l’histoire de l’art du Québec LAb-A</orgName>
+          <idno>https://lanehaq.uqam.ca</idno>
         </org>
       </listOrg>
     </body>
