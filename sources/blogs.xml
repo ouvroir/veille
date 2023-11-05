@@ -188,13 +188,32 @@
             <tag>droit d’auteur</tag>
           </tags>
         </bibl>
-        <website>
+        <bibl>
           <title>Blog de Gallica</title>
-          <url>https://gallica.bnf.fr/blog</url>
+          <idno>https://gallica.bnf.fr/blog</idno>
           <tags>
             <tag>bibliothèques numériques</tag>
           </tags>
-        </website>
+        </bibl>
+        <bibl>
+          <title>Registrar Trek: The Next Generation</title>
+          <idno>https://world.museumsprojekte.de</idno>
+          <tags>
+            <tag>muséologie</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title type="main">Rupert Shepherd</title>
+          <title type="sub">Museum documentation manager and art historian</title>
+          <idno>https://rupertshepherd.info/</idno>
+          <tags>
+            <tag>muséologie</tag>
+          </tags>
+        </bibl>
+        <!--<bibl>
+          <title>Muzeonum</title>
+          <idno>https://www.muzeonum.org</idno>
+        </bibl>-->
       </listBibl>
     </body>
   </text>

@@ -517,6 +517,11 @@
           <orgName>Laboratoire numérique d’études sur l’histoire de l’art du Québec LAb-A</orgName>
           <idno>https://lanehaq.uqam.ca</idno>
         </org>
+        <org>
+          <orgName>LaboPop</orgName>
+          <desc></desc>
+          <idno>http://labopop.uqam.ca</idno>
+        </org>
       </listOrg>
     </body>
   </text>
