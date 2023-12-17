@@ -210,6 +210,13 @@
             <tag>muséologie</tag>
           </tags>
         </bibl>
+        <bibl>
+          <title>Reticular</title>
+          <idno>https://reticular.hypotheses.org</idno>
+          <tags>
+            <tag>digital humanities</tag>
+          </tags>
+        </bibl>
         <!--<bibl>
           <title>Muzeonum</title>
           <idno>https://www.muzeonum.org</idno>
