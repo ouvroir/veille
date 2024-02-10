@@ -217,6 +217,37 @@
             <tag>digital humanities</tag>
           </tags>
         </bibl>
+        <bibl>
+          <title>Koven J. Smith</title>
+          <idno>https://kovenjsmith.com/post/</idno>
+          <tags>
+            <tag>digital museology</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>The Digital Museum</title>
+          <idno>https://thedigitalmuseum.tumblr.com</idno>
+          <idno type="rss">https://thedigitalmuseum.tumblr.com/rss</idno>
+          <tags>
+            <tag>digital museology</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>Interstices</title>
+          <idno>https://interstices.info</idno>
+          <idno type="rss">https://interstices.info/feed/</idno>
+          <tags>
+            <tag>informatique</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>Binaire</title>
+          <idno>https://www.lemonde.fr/blog/binaire/</idno>
+          <idno type="rss"></idno>
+          <tags>
+            <tag>informatique</tag>
+          </tags>
+        </bibl>
         <!--<bibl>
           <title>Muzeonum</title>
           <idno>https://www.muzeonum.org</idno>
