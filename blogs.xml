@@ -248,6 +248,44 @@
             <tag>informatique</tag>
           </tags>
         </bibl>
+        <bibl>
+          <title>Kultur Geschichte in Digital</title>
+          <idno>https://tour-de-kultur.de</idno>
+          <tags>
+            <tag>digital museology</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>Global Museum</title>
+          <idno>https://globalmuseum.org</idno>
+          <tags>
+            <tag>museology</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>museum-digital (musdb)</title>
+          <idno>https://blog.museum-digital.org</idno>
+          <note>
+            <p>museum-digital was founded in early 2009 in Bitterfeld as an initiative of museums who were to publish their collections online – together. Starting from the publication side, the project has grown to cover more and more aspects of the work of museums.</p>
+            <p>musdb, originally intended to be a mere input interface for the published object information, has grown into a full collection management system. To allow for a full interoperability of the data of different museums, a new set of controlled vocabularies that are filled and curated by the participating museums collaboratively. To allow presenting the objects not only by themselves, but embedded into a given context, we developed the “Themator” for creating topical portals and digital exhibitions. The “frontend” on the other hand has expanded to not only cover museums, collections and objects but now covers exhibitions, events and object groups and more. At the same time, more than a thousand museums are now present on museum-digital.</p>
+        </note>
+          <tags>
+            <tag>museology</tag>
+          </tags>
+        </bibl>
+        <bibl>
+          <title>Google Arts &amp; Culture</title>
+          <idno>https://blog.google/outreach-initiatives/arts-culture/</idno>
+          <idno type="rss">https://blog.google/outreach-initiatives/arts-culture/rss</idno>
+        </bibl>
+        <bibl>
+          <title>The Spatial Heritage Review</title>
+          <idno>https://nebulousflynn.substack.com</idno>
+          <tags>
+            <tag>digital heritage</tag>
+            <tag>3D</tag>
+          </tags>
+        </bibl>
         <!--<bibl>
           <title>Muzeonum</title>
           <idno>https://www.muzeonum.org</idno>

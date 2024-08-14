@@ -232,6 +232,7 @@
             <surname>Wasielewski</surname>
           </persName>
           <idno type="perso">https://www.amandawasielewski.com</idno>
+          <idno type="mastodon">@mandon@mastodon.cc</idno>
           <keywords>
             <term>IA</term>
           </keywords>
@@ -318,6 +319,188 @@
             <roleName>CEO</roleName>
           </affiliation>
           <idno type="linkedin">https://il.linkedin.com/in/susanhazan</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Julia</forename>
+            <surname>Noordegraaf</surname>
+          </persName>
+          <affiliation>
+            <orgName>department of Media Studies at the University of Amsterdam</orgName>
+            <roleName>professor of Digital Heritage</roleName>
+          </affiliation>
+          <affiliation>
+            <orgName>Amsterdam Centre for Cultural Heritage and Identity (ACHI)</orgName>
+            <roleName>Director</roleName>
+            <idno>https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-humanities/research/priority-areas/cultural-heritage-and-identity/cultural-heritage-and-identity.html</idno>
+          </affiliation>
+        </person>
+        <person>
+          <persName>
+            <forename>Peter</forename>
+            <surname>Dawson</surname>
+          </persName>
+          <affiliation>
+            <orgName>University of Calgary</orgName>
+            <roleName></roleName>
+            <idno>https://antharky.ucalgary.ca/digitalheritage/</idno>
+          </affiliation>
+        </person>
+        <person>
+          <persName>
+            <forename>Tula</forename>
+            <surname>Giannini</surname>
+          </persName>
+          <idno>https://sites.google.com/view/tgiannini</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Simone</forename>
+            <surname>Natale</surname>
+          </persName>
+          <note>
+            <p>Simone Natale is an associate professor at the University of Turin, Italy, and an editor of Media, Culture and Society. He is the author of Deceitful Media: Artificial Intelligence and Social Life after the Turing Test (Oxford University Press, 2021).</p>
+          </note>
+        </person>
+        <person>
+          <persName>
+            <forename>Petrina</forename>
+            <surname>Foti</surname>
+          </persName>
+          <affiliation>
+            <orgName>Loughborough University</orgName>
+          </affiliation>
+          <note>
+            <p>Petrina Foti is a museologist and scholar focused on the rise of digital information and technology and the resulting impact on both museums and the wider world. She is the author of Collecting and Exhibiting Computer-based Technology: Curatorial Expertise at the Smithsonian Museums (Routledge, 2018).</p>
+          </note>
+          <idno type="twitter">https://x.com/petrinafoti</idno>
+          <idno type="orcid">https://orcid.org/0000-0001-6152-3428</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Ross</forename>
+            <surname>Parry</surname>
+          </persName>
+          <occupation>Professor of museum technology</occupation>
+          <affiliation>
+            <orgName>University of Leicester</orgName>
+            <country>United kingdom</country>
+            <settlement>Leicester</settlement>
+          </affiliation>
+          <note>
+            <p>Ross Parry is a professor of museum technology at the University of Leicester, and the inaugural Director of its Institute for Digital Culture. He is co-founder the UK’s Museum Data Service, and co-editor of The Routledge Handbook of Museums, Media and Communication (Routledge 2019).</p>
+          </note>
+        </person>
+        <person>
+          <persName>
+            <forename>Hubertus</forename>
+            <surname>Khole</surname>
+          </persName>
+          <occupation>Lehrstuhl für Mittlere und Neuere Kunstgeschichte</occupation>
+          <affiliation>
+            <orgName>Ludwig-Maximilians-Universität München</orgName>
+            <country>Germany</country>
+            <settlement>Munich</settlement>
+          </affiliation>
+          <idno type="academic">https://www.kunstgeschichte.uni-muenchen.de/personen/professoren_innen/kohle/index.html</idno>
+          <idno type="orcid">https://orcid.org/0000-0003-3162-1304</idno>
+          <idno type="twitter">https://twitter.com/hkohle</idno>
+          <idno type="perso">http://www.sehepunkte.de</idno>
+        </person>
+        <person>
+          <persName>
+            <forename></forename>
+            <surname></surname>
+          </persName>
+          <affiliation>
+            <orgName>Ludwig-Maximilians-Universität München</orgName>
+            <country>Germany</country>
+            <settlement>Munich</settlement>
+          </affiliation>
+          <idno type="academic">https://www.kunstgeschichte.uni-muenchen.de/personen/wiss_ma/schneider/</idno>
+          <idno type="orcid">https://orcid.org/0000-0003-4915-6949</idno>
+          <idno type="github">https://github.com/stefanieschneider</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Joanne</forename>
+            <surname>Bernardi</surname>
+          </persName>
+          <occupation>Prof. of Japanese &amp; Visual and Cultural Studies</occupation>
+          <affiliation>
+            <orgName>University of Rochester</orgName>
+            <country>United States</country>
+            <settlement>Rochester</settlement>
+          </affiliation>
+          <note>
+            <p>My research, publications, and teaching focus on Japanese cinema, media, and culture; early and silent cinema; the history and historiography of moving images and other visual media; film and media preservation; material culture studies; critical digital humanities practice; and the intersection between the history of the atomic age and popular culture. This work draws on my background in East Asian studies, film and media studies, film archiving and preservation, and photography and filmmaking. I seek out opportunities to collaborate and work across and in the spaces between traditional academic disciplines; today, this is where the issues and questions most relevant to the humanities reside. My most recent publications include two co-edited volumes (one on Japanese cinema and one on early cinema and provenance) and a book chapter for an edited volume, Recollecting Collecting (ed. Lucy Fischer), about how my experience as a collector informs my research and teaching. I am currently working on two book monographs, including a study of the cinema of Juzo Itami. In addition to my scholarship in print, I direct Re-Envisioning Japan, an ongoing digital humanities project comprising a physical collection and critical digital archive that documents changing images of Japan and its place in the world in the early to mid-twentieth-century. I enjoy working with students in adjacent disciplines, particularly in the Departments of Art and Art History, English, and History, and I support several of the university’s interdisciplinary programs, including Digital Media Studies (Advisory Committee), Film and Media Studies (former FMS director and interim FMS director), the Selznick Graduate Program in Film and Media Preservation (a collaboration with George Eastman Museum), the Graduate Program in Visual and Cultural Studies (affiliated faculty), the Susan B. Anthony Institute for Woman and Gender Studies (Associate), the Literary Arts Programs (affiliated faculty), and the Graduate Program in Photographic Preservation and Collections Management (GEM collaboration, 2014-2019). My scholarship has received support from the ACLS, NEH, Fulbright, the Japan Foundation, the Association of Asian Studies North East Area Council, the Social Science Research Council, and the U.S.- Japan Friendship Commission.</p>
+          </note>
+          <idno type="academic">https://www.sas.rochester.edu/mlc/people/faculty/bernardi_joanne/</idno>
+          <idno type="perso">https://joannebernardi.academia.edu</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Sheila K.</forename>
+            <surname>Hoffman</surname>
+          </persName>
+          <occupation>Senior Adjunct Professor, Art History</occupation>
+          <affiliation>
+            <orgName>University of Massachusetts Lowell</orgName>
+          </affiliation>
+          <note>
+            <p>Born in New Mexico and raised in Oregon, Dr. Sheila K. Hoffman has lived in 5 different countries and adventured through more than 40 others on 5 continents as a
+ scholar of art history, world cultures and symbols. She refers to herself as, “A female Robert Langdon (minus the tweed) with a passion for all things ancient, a sci-fi geek and an incurable explorer, a culinary crusader, foodie adventurer and pretty good cook.”</p>
+            <p>In addition to more than 20 years of experience in museums as a curator and director,
+ Sheila has two doctoral degrees: one from The Sorbonne in Paris in Art History and the
+ other from the Université du Québec à Montréal in Museology, Heritage and Cultural Mediation. Her dissertation, written and defended in French, on how digital technologies can transform world heritage was fully funded by Canada’s prestigious Vanier scholarship. She has also authored several books and articles, including an acclaimed examination of indigenous ceramics of the Southwestern United States. She is Senior Lecturer in Art History at the University of Massachusetts Lowell and has lectured around the world as a guest of governments and universities, including the Smithsonian, Tufts, Carnegie Mellon, Université de Paris VI, and to inaugurate the Nanjing University Cultural History and Museology Program. She served as one of the founding Reviews Editors for the International Museum Worlds Journal. And in 2020, her outstanding achievements in the cultural sector were honored with the Arts Luminary Award, given by the University of Oklahoma, where she conducted her master’s studies.</p>
+            <p>Sheila has appeared on many science-based television series, appearing on the Science, Discovery and Travel Channels among others as an expert contributor on numerous topics related to ancient cultures and religions. She has lectured across the globe on topics ranging from the history of museums and indigenous collections to the use of cutting-edge technologies in cultural heritage. From ancient symbols to digital culture, Sheila believes fiercely in the power of cultural images and objects to transform our understanding of the world we share. When she’s not studying or teaching, you can find her exploring the world by bike, kayak, camera or cuisine.</p>
+          </note>
+          <idno type="linkedin">https://www.linkedin.com/in/sheilakhoffman/</idno>
+          <idno type="academic">https://www.uml.edu/fahss/art/programs-of-study/art-history/faculty/hoffman-sheila.aspx</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Victoria</forename>
+            <surname>Szabo</surname>
+          </persName>
+          <occupation>Research Professor of Art, Art History, &amp; Visual Studies</occupation>
+          <affiliation>
+            <orgName>Duke</orgName>
+            <country>United States of America</country>
+            <settlement>Durham, NC</settlement>
+          </affiliation>
+          <idno type="academic">https://scholars.duke.edu/person/ves4</idno>
+          <idno type="twitter">http://twitter.com/vszabo</idno>
+          <idno type="mastodon">vszabo@hcommons.social</idno>
+          <idno type="orcid">https://orcid.org/0000-0001-8008-5187</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Peter</forename>
+            <surname>Bell</surname>
+          </persName>
+          <occupation>Professor for art history and digital humanities</occupation>
+          <affiliation>
+            <orgName>Philipps-Universität Marburg</orgName>
+            <country>Germany</country>
+            <settlement>Marburg</settlement>
+          </affiliation>
+          <idno type="mastodon">peterbell@fedihum.org</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Maximilian</forename>
+            <surname>Schich</surname>
+          </persName>
+          <affiliation>
+            <orgName>Tallinn University</orgName>
+            <country>Estonia</country>
+            <settlement>Tallinn</settlement>
+          </affiliation>
+          <note>
+            <p>Maximilian Schich is a multidisciplinary scientist and art historian, with post-doc experience in network science and computational social science. Max collaborates towards a systematic understanding of art and culture, using critical and creative aesthetics, qualitative inquiry, quantitative measurement, and computation.</p>
+          </note>
+          <idno type="perso">https://www.schich.info</idno>
         </person>
       </listPerson>
     </body>
