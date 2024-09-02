@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liste de site pour la veille technologique</title>
+            <principal>
+               <forename>Emmanuel</forename>
+               <surname>Château-Dutier</surname>
+               <affiliation>
+                  <orgName>Université de Montréal</orgName>
+               </affiliation>
+               <idno type="orcid">https://orcid.org/0000-0003-4092-4569</idno>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Ouvroir d’histoire de l’art et de muséologie numériques</authority>
+            <date from="2024">depuis 2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Fichier nativement numérique</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- XBEL http://xbel.sourceforge.net -->
+         <listOrg>
+            <org>
+               <objectName>HeydonWorks</objectName>
+               <idno type="website">https://heydonworks.com</idno>
+               <idno type="rss">https://heydonworks.com/feed.xml</idno>
+               <keywords>
+                  <term>accessibility</term>
+                  <term>css</term>
+               </keywords>
+            </org>
+         </listOrg>
+      </body>
+   </text>
