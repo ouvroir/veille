@@ -100,6 +100,7 @@ La liste de diffusion peut-être une lettre d'information mais aussi un espace d
 - Mettre en place un formulaire simple et intuitif sur le site WordPress de Doc-Inter.
 - Utiliser un plugin gratuit ou peu coûteux pour collecter les informations essentielles (titre, description, date, lieu, image, contact, etc.).
 - Automatiser l'envoi des données collectées vers l'attachée de communication, réduisant le traitement manuel.
+- https://calenda.org/ site à formulaire pour proposer événements. 
 
 #### Solution : Automatisation partielle du traitement
 
@@ -170,6 +171,8 @@ Avec l'information traitées grâce aux solutions précédentes, l'éditorialisa
 ## Préconisations
 
 ### SOLUTION 1
+
+Avoir un calendrier avec les informations sur le site doc-inter.
 
 #### Étape 1 : Récolter l’information
 
