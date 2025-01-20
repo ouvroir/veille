@@ -45,15 +45,14 @@ Le site Doc-Inter est un site WordPress géré par une attachée de communicatio
 #### Université de Montréal (UdeM)
 
 - Le [calendrier UdeM](https://calendrier.umontreal.ca/) permet aux professeurs de publier des événements via une plateforme dédiée ([Guide utilisateur](https://calendrier.umontreal.ca/docs/GuidedutilisateurUdeM.pdf)).
-- Points forts :
-  - Les événements UdeM sont intégrés à un calendrier général montréalais via Caligram.
-  - Intégration dans les pages "Nouvelles" et "Événements" du département d’histoire de l’art.
-- Limitation : Caligram (anciennement Mur Mitoyen) est peu actif.
+- Les événements UdeM étaient intégré à un calendrier général montréalais via Caligram. Limitation : Caligram (anciennement Mur Mitoyen) est peu actif.
+- Intégration dans les pages "Nouvelles" et "Événements" du département d’histoire de l’art.
+- Le Mur mitoyen et Caligram ne seront plus utilisés dans la  nouvelle version du calendrier institutionnel. L’outil est désormais  hébergé dans TYPO3, la même plateforme que votre site Web départemental.
 - Pour les événements extérieurs, le département de l'Udem transfère les mails qui leurs sont envoyés. Pas écologique et fait exploser les boites mails. Pas éditorialisé. Comment ça se passe pour l'UQAM et Concordia ?
 
 #### Université du Québec à Montréal (UQAM)
 
-- UQAM utilise également Caligram, mais le site https://evenements.uqam.ca/ était inaccessible lors de cette analyse.
+- UQAM utilise également Caligram : https://evenements.uqam.ca/.
 
 #### Université Concordia
 
@@ -79,6 +78,8 @@ L’association Aesthesis utilise un agenda Google pour partager les événement
 
 ### 3. Liste de diffusion 
 
+La liste de diffusion peut-être une lettre d'information mais aussi un espace de partage. Les personnes inscrites à la liste peuvent partager leurs informations aux autres abonnés. Ça peut être pratique pour centraliser le partage de l'information. Il faudra cependant aussi saisir les informations dans le calendrier si cette solution souhaite être maintenue. 
+
 - Bien que pratique, Mailchimp est une solution propriétaire et payante.
 - Alternatives : listes de diffusion libres (ex. : Sympa, offert par l’UdeM).
 - Mise à jour annuelle nécessaire pour s’assurer que tous les membres sont inscrits.
@@ -94,20 +95,20 @@ L’association Aesthesis utilise un agenda Google pour partager les événement
 
 ### **Problème 1 : Difficulté à collecter et à traiter les informations sur les événements**
 
-#### Solution 1 : Création d’un formulaire en ligne intégré
+#### Solution : Création d’un formulaire en ligne intégré
 
 - Mettre en place un formulaire simple et intuitif sur le site WordPress de Doc-Inter.
 - Utiliser un plugin gratuit ou peu coûteux pour collecter les informations essentielles (titre, description, date, lieu, image, contact, etc.).
 - Automatiser l'envoi des données collectées vers l'attachée de communication, réduisant le traitement manuel.
 
-#### Solution 2 : Automatisation partielle du traitement
+#### Solution : Automatisation partielle du traitement
 
 - Configurer des règles dans le formulaire pour normaliser les entrées (par ex., un menu déroulant pour les types d'événements ou les lieux).
 - Explorer les fonctionnalités payantes de « The Events Calendar » pour permettre une modération rapide des propositions avant publication.
 
 ### **Problème 2 : Faible utilisation du calendrier Doc-Inter**
 
-#### Solution 3 : Passer le calendrier sur Caligram. 
+#### Solution : Passer le calendrier sur Caligram. 
 
 1. ​	Avantages : 
    - le calendrier peut être affiché sur le wordpress.
@@ -118,12 +119,12 @@ L’association Aesthesis utilise un agenda Google pour partager les événement
    - Les événements seront multiplié sur leurs plateformes s'ils sont sur sur les groupes des universités Et de doc inter.
    - Ne résout pas la problématique de la lettre d'information
 
-#### Solution 4 : Implication des membres dans l’alimentation du calendrier
+#### Solution : Implication des membres dans l’alimentation du calendrier
 
 - Encourager les membres (étudiants, professeurs) à ajouter leurs propres événements dans le calendrier via des campagnes d’information (ex. : newsletters, courriels de rappel).
 - Former les membres clés des universités partenaires à l’utilisation du système.
 
-#### Solution 5 : Synchronisation interuniversitaire
+#### Solution : Synchronisation interuniversitaire
 
 - Proposer une intégration avec les calendriers des universités (UdeM, UQAM, Concordia) pour récupérer automatiquement les événements pertinents.
 - Explorer les API disponibles pour automatiser la synchronisation avec les plateformes existantes. 
@@ -133,42 +134,44 @@ L’association Aesthesis utilise un agenda Google pour partager les événement
 
 Avec l'information traitées grâce aux solutions précédentes, l'éditorialisation sera plus simple. 
 
-#### Solution 6 : Passage à une solution open-source
+#### Solution : Passage à une solution open-source
 
 - Migrer de Mailchimp vers une solution libre comme Sympa.
 - Configurer une gestion centralisée pour garantir l'inscription automatique des membres du doc-inter tout en respectant leur droit de désinscription.
 
-#### Solution 6 : Optimisation des newsletters
+#### Solution : Optimisation des newsletters
 
 - Simplifier le contenu des newsletters avec des liens directs vers le calendrier en ligne.
 - Rappeler de s'abonner à l'agenda
 
 ### **Problème 4 : Manque de visibilité interuniversitaire**
 
-#### Solution 7 : Collaboration entre départements
+#### Solution : Collaboration entre départements
 
 - Mettre en place une charte ou un accord informel pour harmoniser la diffusion des événements entre les universités partenaires.
 - Nommer des référents dans chaque département pour assurer une veille sur les événements.
 
-#### Solution 8 : Élargir la diffusion
+#### Solution : Élargir la diffusion
 
 - Publier les événements non seulement sur Doc-Inter, mais aussi sur des plateformes grand public comme Eventbrite ou les réseaux sociaux universitaires.
 - Intégrer des outils comme Mur Mitoyen ou Caligram (s’ils sont encore fonctionnels) pour toucher un public plus large.
 
 ### **Problème 5 : Temps et ressources limités**
 
-#### Solution 9 : Renforcer les ressources humaines
+#### Solution : Renforcer les ressources humaines
 
 - Mobiliser des bénévoles ou stagiaires (étudiants en communication ou histoire de l’art), associations étudiantes, CEDISC pour aider à l’organisation et la diffusion des événements.
 - Nommer un ou deux représentants étudiants ou membres du personnel dans chaque université pour assurer une veille et une transmission d’événements vers Doc-Inter.
 
-#### Solution 10 : Automatisation accrue
+#### Solution : Automatisation accrue
 
 - Explorer des solutions automatisées pour la gestion des événements, comme des scripts ou des outils no-code pour l'intégration entre plateformes.
 
 ## Préconisations
 
-### Étape 1 : Récolter l’information
+### SOLUTION 1
+
+#### Étape 1 : Récolter l’information
 
 1. **Formulaire de soumission :**
    - Créer un formulaire personnalisé sur le site Doc-Inter pour permettre aux utilisateurs de soumettre des événements.
@@ -177,12 +180,24 @@ Avec l'information traitées grâce aux solutions précédentes, l'éditorialisa
    - Encourager les membres à renseigner directement les événements dans le calendrier Doc-Inter. Les professeurs devraient également publier leurs événements sur Doc-Inter pour toucher une audience interuniversitaire.
    - Informer les départements d'histoire de l'art. Créer un mail de réponse type si un événement leur est envoyé. Maintenir la publication d’événements sur les calendriers universitaires.
 
-### Étape 2 : Partager l’information
+#### Étape 2 : Partager l’information
 
 1. **Validation et éditorialisation :**
    - La soumission d’événements via formulaire serait validée par l’attachée de communication avant publication.
 2. **Lettre d'information** :
    - L'attachée de communication doit continuer de faire une lettre d'information à partir du calendrier. Il est conseillé d'en faire une tous les 15 jours pour éviter l'accumulation. 
+
+### SOLUTION 2
+
+#### Étape 1 : Créer une liste de diffusion
+
+Les départements et les professeurs de doc inter s'inscrivent et partagent leurs événements sur une liste de diffusion. Les personnes extérieures au doc inter sont aussi invités à partager l'info sur la liste de diffusion. 
+
+#### Étape 2 : Calendrier
+
+Si le doc-inter veut maintenir un calendrier sur leur site, il est préconisé que l'attachée à la communication entre manuellement les informations de la liste de diffusion. 
+
+Une solution pour avoir un formulaire serait que le contenu soit envoyé directement sur la liste de diffusion.
 
 ### Suggestions techniques
 
