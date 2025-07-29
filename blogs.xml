@@ -93,9 +93,9 @@
           <idno type="sketchfab">http://sketchfab.com/nebulousflynn</idno>
             <email>thomas.flynn[@]http://sketchfab.com</email>
           <idno>http://nimbuspin.com/blog/</idno>
-          <tags>
+          <keywords>
             <tag>3D</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Chris Unitt</title>
@@ -144,9 +144,9 @@
         <bibl>
           <title>CogApp, agency for digital projects, building a better online world</title>
           <idno>https://blog.cogapp.com</idno>
-          <tags>
+          <keywords>
             <tag>museologie numérique</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Julien A. Raemy, Thoughts and discombobulations</title>
@@ -154,113 +154,113 @@
           <note>PhD Candidate in Digital Humanities at the University of Basel.
             Interoperability Specialist at DaSCH. International Image Interoperability Framework
             (IIIF) Technical Review Committee Member.</note>
-          <tags>
+          <keywords>
             <tag>IIIF</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>European Heritage Tribune</title>
-          <idno>https://heritagetribune.eu/tags/digitalisationanddigitisation/</idno>
-          <tags>
+          <idno>https://heritagetribune.eu/keywords/digitalisationanddigitisation/</idno>
+          <keywords>
             <tag>patrimoine</tag>
             <tag>Europe</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Machine Learning for science</title>
           <idno>https://www.machinelearningforscience.de/en/</idno>
-          <tags>
+          <keywords>
             <tag>IA</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Michael Geist</title>
           <idno>https://www.michaelgeist.ca</idno>
-          <tags>
+          <keywords>
             <tag>droit d’auteur</tag>
             <tag>Canada</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>SciLex</title>
           <idno>https://scinfolex.com</idno>
-          <tags>
+          <keywords>
             <tag>droit d’auteur</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Blog de Gallica</title>
           <idno>https://gallica.bnf.fr/blog</idno>
-          <tags>
+          <keywords>
             <tag>bibliothèques numériques</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Registrar Trek: The Next Generation</title>
           <idno>https://world.museumsprojekte.de</idno>
-          <tags>
+          <keywords>
             <tag>muséologie</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title type="main">Rupert Shepherd</title>
           <title type="sub">Museum documentation manager and art historian</title>
           <idno>https://rupertshepherd.info/</idno>
-          <tags>
+          <keywords>
             <tag>muséologie</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Reticular</title>
           <idno>https://reticular.hypotheses.org</idno>
-          <tags>
+          <keywords>
             <tag>digital humanities</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Koven J. Smith</title>
           <idno>https://kovenjsmith.com/post/</idno>
-          <tags>
+          <keywords>
             <tag>digital museology</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>The Digital Museum</title>
           <idno>https://thedigitalmuseum.tumblr.com</idno>
           <idno type="rss">https://thedigitalmuseum.tumblr.com/rss</idno>
-          <tags>
+          <keywords>
             <tag>digital museology</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Interstices</title>
           <idno>https://interstices.info</idno>
           <idno type="rss">https://interstices.info/feed/</idno>
-          <tags>
+          <keywords>
             <tag>informatique</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Binaire</title>
           <idno>https://www.lemonde.fr/blog/binaire/</idno>
           <idno type="rss"></idno>
-          <tags>
+          <keywords>
             <tag>informatique</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Kultur Geschichte in Digital</title>
           <idno>https://tour-de-kultur.de</idno>
-          <tags>
+          <keywords>
             <tag>digital museology</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Global Museum</title>
           <idno>https://globalmuseum.org</idno>
-          <tags>
+          <keywords>
             <tag>museology</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>museum-digital (musdb)</title>
@@ -269,9 +269,9 @@
             <p>museum-digital was founded in early 2009 in Bitterfeld as an initiative of museums who were to publish their collections online – together. Starting from the publication side, the project has grown to cover more and more aspects of the work of museums.</p>
             <p>musdb, originally intended to be a mere input interface for the published object information, has grown into a full collection management system. To allow for a full interoperability of the data of different museums, a new set of controlled vocabularies that are filled and curated by the participating museums collaboratively. To allow presenting the objects not only by themselves, but embedded into a given context, we developed the “Themator” for creating topical portals and digital exhibitions. The “frontend” on the other hand has expanded to not only cover museums, collections and objects but now covers exhibitions, events and object groups and more. At the same time, more than a thousand museums are now present on museum-digital.</p>
         </note>
-          <tags>
+          <keywords>
             <tag>museology</tag>
-          </tags>
+          </keywords>
         </bibl>
         <bibl>
           <title>Google Arts &amp; Culture</title>
@@ -281,11 +281,72 @@
         <bibl>
           <title>The Spatial Heritage Review</title>
           <idno>https://nebulousflynn.substack.com</idno>
-          <tags>
+          <keywords>
             <tag>digital heritage</tag>
             <tag>3D</tag>
-          </tags>
+          </keywords>
         </bibl>
+        <bibl>
+          <title>Louis Derrac</title>
+          <idno>https://louisderrac.com</idno>
+          <keywords>
+            <tag>low tech</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>From Jason</title>
+          <idno>https://www.fromjason.xyz/p/notebook/</idno>
+          <keywords>
+            <tag>culture numérique</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Low tech magazine</title>
+          <idno>https://solar.lowtechmagazine.com</idno>
+          <keywords>
+            <tag>low tech</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Literary Machines</title>
+          <idno>https://literarymachin.es</idno>
+          <keywords>
+            <tag>bibliothèques</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Cybernetica</title>
+          <idno>https://www.cybernetica.fr</idno>
+          <keywords>
+            <tag>culture numérique</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Dans les algorithmes</title>
+          <idno>https://danslesalgorithmes.net</idno>
+          <keywords>
+            <tag>culture numérique</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Digital History Berlin</title>
+          <note>
+            <p>Digitale Geschichtswissenschaften an der Humboldt-Universität zu Berlin</p>
+          </note>
+          <idno>https://dhistory.hypotheses.org</idno>
+          <keywords>
+            <tag>histoire numérique</tag>
+          </keywords>
+        </bibl>
+        <bibl>
+          <title>Tim Sherratt</title>
+          <idno>https://updates.timsherratt.org/</idno>
+          <idno type="rss">https://updates.timsherratt.org/feed.json</idno>
+          <keyword>
+            <tag>open GLAM</tag>
+          </keyword>
+        </bibl>
+        <bibl></bibl>
         <!--<bibl>
           <title>Muzeonum</title>
           <idno>https://www.muzeonum.org</idno>

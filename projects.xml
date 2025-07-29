@@ -653,6 +653,32 @@
           <idno type="website">https://cudan.tlu.ee/</idno>
           <note><p>In a nutshell, our mission is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.</p></note>
         </org>
+        <org>
+          <orgName>Courtauld’s Digital Art History Research Group (DAHRG)</orgName>
+          <idno type="website">https://courtauld.ac.uk/research/researchseries/digital-art-history-research-group/</idno>
+          <note>
+            <p>The Digital Art History Research Group organizes discussions around the use of digital and computational methods in the histories of art and architecture and in conservation.</p>
+            <p>From the building of newly accessible archives to new possibilities in art historical analysis, digital tools and methods have transformed transformed not just the way art historical research is done but even the types of questions we ask and the way we think about our objects. Rather than supplanting analog research and the material object, the digital complements our established methods, expanding the field, offering unprecedented access to materials and conversations, and foregrounding the possibilities of trans-disciplinary collaboration.</p>
+          </note>
+        </org>
+        <org>
+          <orgName>Getty’s Digital Art History Initiative</orgName>
+          <idno type="website">https://www.getty.edu/projects/digital-art-history/</idno>
+          <note>
+            <p>The Digital Art History Initiative leveraged emerging technologies with grants that advanced the field of art history, preparing scholars to explore new questions and develop innovative, sophisticated tools.</p>
+          </note>
+        </org>
+        <org>
+          <orgName>Library Innovation Lab</orgName>
+          <idno type="website">https://lil.law.harvard.edu</idno>
+        </org>
+        <org>
+          <orgName>Glam-e Lab</orgName>
+          <idno type="website">https://www.glamelab.org</idno>
+          <note>
+            <p>The GLAM-E Lab is a joint initiative between the Centre for Science, Culture and the Law at the University of Exeter and the Engelberg Center on Innovation Law & Policy at NYU Law. It uses direct representation to develop model policies and terms for cultural institutions that are creating open access programs.</p>
+          </note>
+        </org>
       </listOrg>
     </body>
   </text>

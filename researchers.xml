@@ -134,7 +134,15 @@
             <forename>Tim</forename>
             <surname>Sherratt</surname>
           </persName>
+          <note>
+            <p>I’m a historian and hacker who researches the possibilities and politics of digital cultural collections. You can find me at timsherratt.org or on Mastodon as @wragge@hcommons.social.</p>
+          </note>
           <idno type="perso">https://timsherratt.org</idno>
+          <idno type="blog">https://updates.timsherratt.org</idno>
+          <idno type="feed">https://updates.timsherratt.org/feed.json</idno>
+          <keywords>
+            <term>open GLAM</term>
+          </keywords>
         </person>
         <person>
           <persName>
@@ -148,7 +156,8 @@
           <note>
             <p>Thèse en cours sous la direction de Franck Rebillard et de Fabrice Rochelandet : Les pratiques en réalité virtuelle, une étude transversale au sein des industries culturelles. https://www.theses.fr/s266483</p>
           </note>
-          <idno type="linkedin">https://www.linkedin.com/in/sophie-balcon-fourmaux-35835a13b/?originalSubdomain=fr</idno>
+          <idno type="linkedin"
+            >https://www.linkedin.com/in/sophie-balcon-fourmaux-35835a13b/?originalSubdomain=fr</idno>
           <keywords>
             <term>virtual</term>
           </keywords>
@@ -259,6 +268,9 @@
             <orgName>TU Berlin</orgName>
             <country>Germany</country>
           </affiliation>
+          <idno type="academic"
+            >https://www.tu.berlin/kuk/ueber-uns/team/wissenschaftliche-mitarbeiterinnen/dr-lukas-fuchsgruber</idno>
+          <idno type="blog">https://nullmuseum.hypotheses.org</idno>
           <note>
             <p>Lukas Fuchsgruber is an art historian at TU Berlin. His research focuses on digitization in museums, photo archives, and the history of the art market. Since 2020 he is part of the research network “Museum and Society – Mapping the Social”. His case study in the project focuses on the question of museums and data policy, especially on the design of interfaces and the production and dissemination of museum data. In 2021 he was part of an open source project that released an community oriented archive interface: cooArchi. He is a guest researcher at the Museum für Naturkunde Berlin.</p>
           </note>
@@ -275,7 +287,8 @@
             <orgName>Philipps-Universität Marburg</orgName>
             <country>Germany</country>
           </affiliation>
-          <idno type="academic">https://www.uni-marburg.de/de/fb09/khi/institut/lehrende-seiten-und-bilder/prof-dr-peter-bell</idno>
+          <idno type="academic"
+            >https://www.uni-marburg.de/de/fb09/khi/institut/lehrende-seiten-und-bilder/prof-dr-peter-bell</idno>
           <keywords>
             <term>IA</term>
           </keywords>
@@ -294,7 +307,7 @@
             <idno type="uri">https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/</idno>
           </affiliation>
           <note>
-            <p>Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab’s Rainbow Group, and Microsoft Research Cairo. His Ph.D., with Sabine Süsstrunk and Franco Moretti at EPFL, was on the use of computer vision for the “distant reading” of the history of art. In 2018 Leonardo was a DH fellow at Villa I Tatti – the Harvard University Center for Italian Renaissance Studies, from 2018-2020 he was Scientific Assistant, then Scientist, at the Bibliotheca Hertziana – Max Planck Institute for Art History in Rome. Alongside his research in digital art history, he frequently works with machine learning in arts and culture, including for the Liverpool Biennial, the Royal Opera House, and the Whitney Museum of American Art.</p> 
+            <p>Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab’s Rainbow Group, and Microsoft Research Cairo. His Ph.D., with Sabine Süsstrunk and Franco Moretti at EPFL, was on the use of computer vision for the “distant reading” of the history of art. In 2018 Leonardo was a DH fellow at Villa I Tatti – the Harvard University Center for Italian Renaissance Studies, from 2018-2020 he was Scientific Assistant, then Scientist, at the Bibliotheca Hertziana – Max Planck Institute for Art History in Rome. Alongside his research in digital art history, he frequently works with machine learning in arts and culture, including for the Liverpool Biennial, the Royal Opera House, and the Whitney Museum of American Art.</p>
           </note>
           <idno type="lab">https://www.crassh.cam.ac.uk/about/people/leonardo-impett/</idno>
         </person>
@@ -342,7 +355,7 @@
           </persName>
           <affiliation>
             <orgName>University of Calgary</orgName>
-            <roleName></roleName>
+            <roleName/>
             <idno>https://antharky.ucalgary.ca/digitalheritage/</idno>
           </affiliation>
         </person>
@@ -402,22 +415,24 @@
             <country>Germany</country>
             <settlement>Munich</settlement>
           </affiliation>
-          <idno type="academic">https://www.kunstgeschichte.uni-muenchen.de/personen/professoren_innen/kohle/index.html</idno>
+          <idno type="academic"
+            >https://www.kunstgeschichte.uni-muenchen.de/personen/professoren_innen/kohle/index.html</idno>
           <idno type="orcid">https://orcid.org/0000-0003-3162-1304</idno>
           <idno type="twitter">https://twitter.com/hkohle</idno>
           <idno type="perso">http://www.sehepunkte.de</idno>
         </person>
         <person>
           <persName>
-            <forename></forename>
-            <surname></surname>
+            <forename/>
+            <surname/>
           </persName>
           <affiliation>
             <orgName>Ludwig-Maximilians-Universität München</orgName>
             <country>Germany</country>
             <settlement>Munich</settlement>
           </affiliation>
-          <idno type="academic">https://www.kunstgeschichte.uni-muenchen.de/personen/wiss_ma/schneider/</idno>
+          <idno type="academic"
+            >https://www.kunstgeschichte.uni-muenchen.de/personen/wiss_ma/schneider/</idno>
           <idno type="orcid">https://orcid.org/0000-0003-4915-6949</idno>
           <idno type="github">https://github.com/stefanieschneider</idno>
         </person>
@@ -435,7 +450,8 @@
           <note>
             <p>My research, publications, and teaching focus on Japanese cinema, media, and culture; early and silent cinema; the history and historiography of moving images and other visual media; film and media preservation; material culture studies; critical digital humanities practice; and the intersection between the history of the atomic age and popular culture. This work draws on my background in East Asian studies, film and media studies, film archiving and preservation, and photography and filmmaking. I seek out opportunities to collaborate and work across and in the spaces between traditional academic disciplines; today, this is where the issues and questions most relevant to the humanities reside. My most recent publications include two co-edited volumes (one on Japanese cinema and one on early cinema and provenance) and a book chapter for an edited volume, Recollecting Collecting (ed. Lucy Fischer), about how my experience as a collector informs my research and teaching. I am currently working on two book monographs, including a study of the cinema of Juzo Itami. In addition to my scholarship in print, I direct Re-Envisioning Japan, an ongoing digital humanities project comprising a physical collection and critical digital archive that documents changing images of Japan and its place in the world in the early to mid-twentieth-century. I enjoy working with students in adjacent disciplines, particularly in the Departments of Art and Art History, English, and History, and I support several of the university’s interdisciplinary programs, including Digital Media Studies (Advisory Committee), Film and Media Studies (former FMS director and interim FMS director), the Selznick Graduate Program in Film and Media Preservation (a collaboration with George Eastman Museum), the Graduate Program in Visual and Cultural Studies (affiliated faculty), the Susan B. Anthony Institute for Woman and Gender Studies (Associate), the Literary Arts Programs (affiliated faculty), and the Graduate Program in Photographic Preservation and Collections Management (GEM collaboration, 2014-2019). My scholarship has received support from the ACLS, NEH, Fulbright, the Japan Foundation, the Association of Asian Studies North East Area Council, the Social Science Research Council, and the U.S.- Japan Friendship Commission.</p>
           </note>
-          <idno type="academic">https://www.sas.rochester.edu/mlc/people/faculty/bernardi_joanne/</idno>
+          <idno type="academic"
+            >https://www.sas.rochester.edu/mlc/people/faculty/bernardi_joanne/</idno>
           <idno type="perso">https://joannebernardi.academia.edu</idno>
         </person>
         <person>
@@ -456,7 +472,8 @@
             <p>Sheila has appeared on many science-based television series, appearing on the Science, Discovery and Travel Channels among others as an expert contributor on numerous topics related to ancient cultures and religions. She has lectured across the globe on topics ranging from the history of museums and indigenous collections to the use of cutting-edge technologies in cultural heritage. From ancient symbols to digital culture, Sheila believes fiercely in the power of cultural images and objects to transform our understanding of the world we share. When she’s not studying or teaching, you can find her exploring the world by bike, kayak, camera or cuisine.</p>
           </note>
           <idno type="linkedin">https://www.linkedin.com/in/sheilakhoffman/</idno>
-          <idno type="academic">https://www.uml.edu/fahss/art/programs-of-study/art-history/faculty/hoffman-sheila.aspx</idno>
+          <idno type="academic"
+            >https://www.uml.edu/fahss/art/programs-of-study/art-history/faculty/hoffman-sheila.aspx</idno>
         </person>
         <person>
           <persName>
@@ -559,20 +576,23 @@
             <forename>John</forename>
             <surname>Bell</surname>
           </persName>
-          <note><p>John Bell is the Associate Director of the Media Ecology Project at Dartmouth College, where he is also a Lecturer in Film &amp; Media Studies, Program Manager for Research Computing's Digital Humanities Program, and Director of the Data Experiences and Visualizations Studio. Bell is an artist and programmer whose research focuses on digital collaboration. In addition to his work at Dartmouth, Bell is an Assistant Professor of Digital Curation at the University of Maine.</p></note>
-        <keywords>
-          <term>Computer vision</term>
-        </keywords>
+          <note>
+            <p>John Bell is the Associate Director of the Media Ecology Project at Dartmouth College, where he is also a Lecturer in Film &amp; Media Studies, Program Manager for Research Computing's Digital Humanities Program, and Director of the Data Experiences and Visualizations Studio. Bell is an artist and programmer whose research focuses on digital collaboration. In addition to his work at Dartmouth, Bell is an Assistant Professor of Digital Curation at the University of Maine.</p>
+          </note>
+          <keywords>
+            <term>Computer vision</term>
+          </keywords>
         </person>
         <person>
           <persName>
-            <forename></forename>
-            <surname></surname>
+            <forename/>
+            <surname/>
           </persName>
           <note>
             <p>Theresa Avila earned a Ph.D. in Art History from the University of New Mexico with a focus on Latin American and Latin@x art. She is an Assistant Professor of non-Western Art History at California State University, Channel Islands. Prior to that she managed the Simon Burrow Collection of maps and books for the School of Transborder Studies at Arizona State University. As a Mexican descent citizen of the United States who has and continues to live, study, and work in California, New Mexico, and Arizona she specializes in the history, practices, and systems that impact contemporary Latin@x communities within the U.S. southwest. As a scholar and curator her work focuses on the intersections between the visual and political, on a national and global scale, as she interrogates historiography, nation-building, systems of differentiation, social justice struggles, and civil rights protest. Recent publications include Making and Being Made: Contemporary Citizenship, Art, and Visual Culture (2017), which she co-edited; the essay “Icons of the Mexican Revolution: Constructions of Emiliano Zapata in Prints of the Mexican Revolution” in the book Imprints of Revolution: Visual Representations of Resistance (2016); and she also co-edited a special issue of Third Text (2014) focused on “Art and Revolution in Mexico.” She has also curated numerous exhibitions, such as Greater Arizona: Mapping Place, History, and Transformation (2017) at Arizona State University; Legacy of the Mexican Revolution (2015) for the Maxwell Museum of Anthropology, University of New Mexico; and Imagined Regions: The Simon Burrow Transborder Map Collection (2015) for the Mexican Consulate in Phoenix, Arizona. Dr. Avila firmly believes we must activate art in meaningful ways, and she dedicates herself to community oriented projects that engage art as a tool for change.</p>
           </note>
-          <idno type="academic">https://lib.asu.edu/mapping-grand-canyon-conference/presenters/theresa-avila</idno>
+          <idno type="academic"
+            >https://lib.asu.edu/mapping-grand-canyon-conference/presenters/theresa-avila</idno>
         </person>
         <person>
           <persName>
@@ -583,7 +603,8 @@
           <affiliation>
             <orgName>Penn State College of Arts and Architecture</orgName>
           </affiliation>
-          <note><p>Lindsay S. Cook (she/her) is an architectural historian, medievalist, digital humanist, translator, and digital preservation advocate. A specialist in medieval European architecture, Dr. Cook’s current research addresses architectural and artistic responses to the Gothic cathedral Notre-Dame of Paris, medievalism in African American architecture, medieval architectural space, and digital and material approaches to the valorization, conservation, and restoration of cultural heritage.</p>
+          <note>
+            <p>Lindsay S. Cook (she/her) is an architectural historian, medievalist, digital humanist, translator, and digital preservation advocate. A specialist in medieval European architecture, Dr. Cook’s current research addresses architectural and artistic responses to the Gothic cathedral Notre-Dame of Paris, medievalism in African American architecture, medieval architectural space, and digital and material approaches to the valorization, conservation, and restoration of cultural heritage.</p>
             <p>Her research on medieval, early modern, modern, and contemporary histories of Notre-Dame has recently appeared in the journals Future Anterior and Different Visions and the edited volume The Analysis of Gothic Architecture (Brill, 2023). Notre-Dame Cathedral: Nine Centuries of History, her English translation of the French-language monograph co-authored by Dany Sandron and Andrew Tallon, was published by Penn State University Press in 2020. She is currently writing a monograph about architectural and artistic responses to Notre-Dame from the 12th century to the present.</p>
             <p>Dr. Cook was a member of the multi-year digital humanities projects Mapping Gothic, Life of a Cathedral: Notre-Dame of Amiens, and Musiconis, and, from 2021-2024, she chaired the Digital Resources Committee of the International Center of Medieval Art (ICMA). She is a board member of the scholarly association Scientifiques de Notre-Dame, a member of the advisory board of the non-profit educational organization Handshouse Studio, and editor of The Notre-Dame Translation Project, which makes open-educational resources about the history, conservation, and restoration of Notre-Dame following the catastrophic 2019 fire available to students and the general public.</p>
             <p>Dr. Cook teachers upper-level courses about the architectural history of the medieval world and theories and practices of conservation, as well as broader architectural history surveys.</p>
@@ -592,6 +613,67 @@
           <keywords>
             <term>architectural history</term>
           </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Muriel</forename>
+            <surname>van Ruymbeke</surname>
+          </persName>
+          <occupation>Postdoctoral researcher</occupation>
+          <affiliation>
+            <orgName>C2DH</orgName>
+          </affiliation>
+          <note>
+            <p>Muriel van Ruymbeke holds a Phd in archaeology and has worked as a field archaeologist, museum curator, director of a university library and researcher in digital archaeology at the geomatics laboratory of the University of Liège. For the last four years she has coordinated the Interreg EMR project "Terra Mosana" combining 3D digital heritage, digital storytelling and participatory heritage. She is also interested and involved in the use of Linked Open Data in archaeology.</p>
+          </note>
+          <idno type="academic">https://www.c2dh.uni.lu/people/muriel-van-ruymbeke</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Joshua</forename>
+            <surname/>
+          </persName>
+          <note>
+            <p>Joshua R. Enslin is from Southeast Asian Studies by training and now work in Digital Humanities. He works as a research associate (Wissenschaftlicher Mitarbeiter) at the Freies Deutsches Hochstift / Frankfurter Goethe-Museum and volunteer around museum-digital.</p>
+          </note>
+          <idno type="perso">https://www.jrenslin.de</idno>
+          <idno type="blog">https://www.jrenslin.de/post/</idno>
+          <idno type="atom">https://www.jrenslin.de/atom.xml</idno>
+          <keywords>
+            <term>museonum</term>
+          </keywords>
+        </person>
+        <person>
+          <persName>
+            <forename>Paul F.</forename>
+            <surname>Marty</surname>
+          </persName>
+          <idno type="academic">https://directory.cci.fsu.edu/paul-marty/</idno>
+          <idno type="perso">https://marty.cci.fsu.edu</idno>
+        </person>
+        <person>
+          <persName>
+            <forename>Keir</forename>
+            <surname>Winesmith</surname>
+          </persName>
+          <note>
+            <p>Keir Winesmith has been working at the intersection of technology, culture and place for the last 15 years. In 2018 he was featured in <orgName>Fast Company</orgName>’s "100 Most Creative People in Business" for this work. The former director of digital departments at <orgName>San Francisco Museum of Modern Art</orgName> and <orgName>Museum of Contemporary Art Australia</orgName>, he is currently CTO of <orgName>Old Ways, New</orgName> and Professor at <orgName>UNSW Art &amp; Design</orgName></p>
+          </note>
+          <!-- @todo -->
+        </person>
+        <person>
+          <persName>
+            <forename>Suse</forename>
+            <surname>Anderson</surname>
+          </persName>
+          <note><p>Suse Anderson is Assistant Professor, Museum Studies at The George Washington University, and co-producer and co-host of Museopunks – the podcast for the progressive museum. A former President of MCN, Anderson teaches courses related to museums and technology, ethics and visitor experience. She holds a PhD form The University of Newcastle, Australia.</p></note>
+          <!-- @todo -->
+        </person>
+        <person>
+          <persName>
+            <forename>Courtney</forename>
+            <surname>Johnston</surname>
+          </persName>
         </person>
       </listPerson>
     </body>

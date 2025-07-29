@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <!-- https://museums.ca/site/aboutthecma/services/canadianmuseumdirectory -->
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <listOrg>
+               <head>Québec</head>
+               <org>
+                  <orgName xml:lang="fr">Musée des beaux-arts de Montréal</orgName>
+                  <orgName xml:lang="en">Montreal Museum of Fine Arts</orgName>
+                  <placeName>Montréal</placeName>
+                  <region>Québec</region>
+                  <desc type="description"></desc>
+                  <desc type="collections" xml:lang="en">
+                     <p>Thanks to the generosity of many donors, the MMFA’s collections today comprise some 47,000 works, of which over 6,000 can be viewed online.</p>
+                     <p>This site’s Permanent Collection section was expanded thanks to the support of the Ministère de la Culture et des Communications du Québec, as part of the implementation of measure 41 of Quebec’s digital culture plan and to the Ville de Montréal under the Entente sur le développement culturel de Montréal.</p>
+                     <p>The project to digitize and disseminate Inuit works on paper is funded by the Government of Canada.</p>
+                     <idno>https://www.mbam.qc.ca/en/collections/</idno>
+                  </desc>
+                  <desc type="collections" xml:lang="fr">
+                     <p>Grâce à la générosité de nombreux donateurs et de nombreuses donatrices, les collections du MBAM rassemblent aujourd’hui près de 47 000 œuvres, dont plus de 6 000 qui peuvent être consultées en ligne.</p>
+                     <p>La section Collections permanentes du site a été enrichie grâce au soutien financier du ministère de la Culture et des Communications du Québec dans le contexte de la mise en œuvre de la mesure 41 du Plan culturel numérique du Québec, et de la Ville de Montréal dans le cadre de l’Entente sur le développement culturel de Montréal.</p>
+                     <p>Le projet de numérisation et de diffusion d’œuvres inuites sur papier est financé par le gouvernement du Canada.</p>
+                     <idno>https://www.mbam.qc.ca/en/collections/</idno>
+                  </desc>
+                  <desc type="copyright" xml:lang="en">
+                     <p>The distribution, publication or reproduction of the images and videos on this site are for media use only. They cannot be used for commercial purposes. Furthermore, their use must pertain directly to the collection, exhibitions, activities and/or news of the Montreal Museum of Fine Arts. All other use of said images and videos is strictly prohibited without prior consent.</p>
+                        <p>The images must be reproduced in their entirety, without cropping, bleeding, folding, overprinting or any other alteration whatsoever. Prior consent must be obtained for any request for distribution, publication or reproduction that deviates from this rule.</p>
+                        <p>The distribution, publication or reproduction of each image or video must be accompanied by a complete caption and credit, including the photo credit, where applicable.</p>
+                        <p>Please contact the MMFA’s Media Relations team for all questions or requests.</p>
+                     <idno>https://www.mbam.qc.ca/en/press-room/</idno>
+                  </desc>
+                  <desc type="copyright" xml:lang="fr">
+                     <p>La diffusion, la publication ou la reproduction des images et des vidéos présentées sur ce site est réservée à un usage médiatique et non commercial, et doit être en lien direct avec la collection, les expositions, les activités ou les actualités du Musée des beaux-arts de Montréal. Toute autre utilisation est strictement interdite ou doit faire l’objet d’une autorisation préalable.</p>
+                     <p>Les images doivent être reproduites en entier, sans recadrage, sans fond perdu ni pliage, sans surimpression ni autre modification d’aucune sorte. Toute diffusion, publication ou reproduction ne respectant pas ces consignes doit faire l’objet d’une demande d’autorisation préalable.</p>
+                     <p>La diffusion, la publication ou la reproduction de chaque image ou de chaque vidéo doit être accompagnée de la légende complète avec le crédit photo, le cas échéant.</p>
+                     <p>Pour toute question ou demande, prière de contacter le service de presse du MBAM.</p>
+                     <idno>https://www.mbam.qc.ca/fr/salle-de-presse/</idno>
+                  </desc>
+                  <idno type="website">https://www.mbam.qc.ca</idno>
+                  <idno type="collection">https://www.mbam.qc.ca/en/collections/</idno>
+                  <idno type="opendata"></idno>
+                  <idno type="wikidata"></idno>
+               </org>
+            </listOrg>
+            <listOrg>
+               <head>Alberta</head>
+               <org>
+                  <orgName>Royal Tyrrell Museum</orgName>
+                  <placeName>Drumheller</placeName>
+                  <region>Alberta</region>
+               </org>
+            </listOrg>
+            <listOrg>
+               <head>British Columbia</head>
+               <org>
+                  <orgName>Royal BC Museum</orgName>
+                  <placeName>Victoria</placeName>
+                  <region>British Columbia</region>
+               </org>
+               <org>
+                  <orgName>The Museum of Anthropology</orgName>
+                  <placeName>Vancouver</placeName>
+                  <region>British Columbia</region>
+               </org>
+            </listOrg>
+            
+            <listOrg>
+               <head>Manitoba</head>
+               <org>
+                  <orgName>The Manitoba Museum</orgName>
+                  <placeName>Winnipeg</placeName>
+                  <region>Manitoba</region>
+               </org>
+               <org>
+                  <orgName>Canadian Museum for Human Rights</orgName>
+                  <placeName>Winnipeg</placeName>
+                  <region>Manitoba</region>
+                  <idno type="website">https://humanrights.ca</idno>
+               </org>
+            </listOrg>
+            <listOrg>
+               <head>Ontario</head>
+               <org>
+                  <orgName>Royal Ontario Museum (ROM)</orgName>
+                  <placeName>Toronto</placeName>
+                  <region>Ontario</region>
+               </org>
+               <org>
+                  <orgName>The Art Gallery of Ontario</orgName>
+                  <placeName>Toronto</placeName>
+                  <region>Ontario</region>
+               </org>
+               <org>
+                  <orgName xml:lang="en">Canadian War Museum</orgName>
+                  <orgName xml:lang="fr">Musée canadien de la guerre</orgName>
+                  <placeName>Ottawa</placeName>
+                  <region>Ontario</region>
+                  <desc xml:lang="en">
+                     <p>The Canadian War Museum is Canada’s national museum of military history and one of the world’s most respected museums for the study and understanding of armed conflict.</p>
+                        
+                        <p>The Museum traces its origins back to 1880, when it consisted primarily of a collection of militia artifacts. The Museum opened at its new location on the LeBreton Flats site in downtown Ottawa on May 8, 2005. Its opening not only marked the 60th anniversary of the end of the Second World War in Europe (V-E Day) but also the 125th anniversary of the Museum itself. Since its opening in 2005, the Museum has welcomed approximately 500,000 visitors every year.</p>
+                  </desc>
+                  
+                  <idno type="website">https://www.warmuseum.ca</idno>
+                  <idno type="collection">https://www.warmuseum.ca/collections/</idno>
+               </org>
+               <org>
+                  <orgName>Museum London</orgName>
+                  <placeName>London</placeName>
+                  <region>Ontario</region>
+                  <desc>
+                     <p>Our collection includes 5,600 artworks including historical and contemporary works—painting, sculpture, drawings, prints, digital media and installation—that reflect the development of artistic practice in this region and across the country. We also care for 45,000+ artifacts—from everyday household objects, to clothing, to signs, to furniture, to manufactured goods, and much more—the material culture that represents stories of London and Londoners across time.</p>
+                  </desc>
+               </org>
+               <org>
+                  <orgName xml:lang="en">McMichael Canadian Art Collection</orgName>
+                  <orgName xml:lang="fr">Collection d’art Canadien McMichael</orgName>
+                  <placeName>Kleinburg</placeName>
+                  <region>Ontario</region>
+                  <desc>
+                     <p>The McMichael Canadian Art Collection is the largest publicly funded gallery in Canada that focuses exclusively on Canadian and Indigenous art, both historical and contemporary. The permanent collection consists of more than 7,000 artworks by Tom Thomson, the Group of Seven, their contemporaries, and First Nations, Métis, Inuit and contemporary artists who have contributed to the development of Canadian art. As custodians of the Cape Dorset (Kinngait) Archive, the McMichael is also the gallery of record for works on paper from the Inuit community of Cape Dorset (Kinngait), which totals nearly 100,000 artworks.</p>
+                  </desc>
+                  <idno type="website">https://mcmichael.com</idno>
+                  <idno type="collection">http://collections.mcmichael.com</idno>
+               </org>
+               <org>
+                  <orgName>AGO</orgName>
+                  <placeName>Toronto</placeName>
+                  <region>Ontario</region>
+                  <desc>
+                     <p>Located in Toronto, the Art Gallery of Ontario is one of the largest art museums in North America, attracting approximately one million visitors annually. The AGO Collection of more than 120,000 works of art ranges from cutting-edge contemporary art to significant works by Indigenous and Canadian artists and European masterpieces. The AGO presents wide-ranging exhibitions and programs, including solo exhibitions and acquisitions by diverse and underrepresented artists from around the world. In 2019, the AGO launched a bold new initiative designed to make the museum even more welcoming and accessible with the introduction of free admission for Ontarians 25 years and under and a $40 annual pass. Visit AGO.ca to learn more.</p>
+                     <p>Founded in 1900 by a group of private citizens as the Art Museum of Toronto, the Art Gallery of Ontario is one of the largest art museums in North America, with over 90,000 works in its collection and a physical facility of 583,000 square feet. More than 4,000 works from the collection are on public view.</p></desc>
+                  <idno type="website">https://ago.ca</idno>
+               </org>
+               <org>
+                  <orgName xml:lang="en">Canadian museum of nature</orgName>
+                  <orgName xml:lang="fr">Musée canadien de la nature</orgName>
+                  <placeName></placeName>
+                  <region>Ontario</region>
+                  <desc>
+                     <p>Collection data for more than 3 043 080 specimens from the museum’s National Phycology Collection of Canada (algae and diatoms) are stored in a database that is designed specifically for aquatic biological collections and the unique environmental data that are closely associated with the specimens, such as water chemistry.</p>
+                  </desc>
+                  <idno type="website">https://nature.ca</idno>
+                  <idno type="collection">https://nature.ca/en/our-science/collections/online-collection-data/</idno>
+               </org>
+               <org>
+                  <orgName xml:lang="en">Canada Aviation and Space Museum</orgName>
+                  <orgName xml:lang="fr">Musée de l’aviation et de l’espace du Canada</orgName>
+                  <idno>https://ingeniumcanada.org/aviation</idno>
+               </org>
+               <org>
+                  <orgName xml:lang="en">Canada Science and Technology Museum</orgName>
+                  <orgName xml:lang="fr">Musée des sciences et de la technologie du Canada</orgName>
+                  <idno>https://ingeniumcanada.org/scitech</idno>
+               </org>
+            </listOrg>
+            <listOrg>
+               <head>Saskatchewan</head>
+               <org>
+                  <orgName>Royal Saskatchewan Museum</orgName>
+                  <placeName>Regina</placeName>
+                  <region>Saskatchewan</region>
+               </org>
+            </listOrg>
+            <listOrg>
+               <head>Yukon</head>
+               <org>
+                  <orgName>Dawson City Museum</orgName>
+                  <placeName>Dawson City</placeName>
+                  <region>Yukon</region>
+               </org>
+            </listOrg>
+         </div>
+      </body>
+  </text>
+</TEI>
