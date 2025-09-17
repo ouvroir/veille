@@ -14,205 +14,199 @@ tags:
 
 # Rapport sur la diffusion des événements en histoire de l'art sur le site du doc-inter
 
-## Question
+## **Question**
 
-Comment partager efficacement l'information sur les évènements d'histoire de l'art à toute la communauté de Doc-Inter ?
+Comment partager efficacement l'information sur les événements d'histoire de l'art à toute la communauté de Doc-Inter ?
 
-## Analyse
+## **Introduction**
 
-### Le site Doc-Inter
+Ce document vise à examiner les outils existants, d’identifier leurs forces et leurs limites, et de proposer des solutions pour améliorer la coordination et la visibilité des événements. Après une première partie consacrée à l’analyse des dispositifs en place, nous présenterons nos différentes propositions, puis nos conclusions et préconisations ainsi qu’un rétroplanning pour optimiser la diffusion de l’information au sein de la communauté.
+
+## **Analyse**
+
+### **Le site Doc-Inter**
 
 Le site Doc-Inter est un site WordPress géré par une attachée de communication.
 
-#### Calendrier
+- Les signalements d’événements arrivent par mail et doivent être traités manuellement par l’attachée de communication, ce qui est chronophage
+- Peu de personnes partagent leurs événements au doc-inter, ce qui explique le faible nombre d’événements publiés.
 
-- Le site propose un calendrier accessible ici : https://docinterhar.ca/events/.
-- Problème actuel : ce calendrier est peu rempli en raison de la difficulté à collecter l'information.
+Calendrier
+
+- Le site propose un calendrier accessible ici :[ https://docinterhar.ca/events/](https://docinterhar.ca/events/).
+
+- Le site utilise le plugin gratuit[ The Events Calendar](https://theeventscalendar.com/) pour WordPress. Ajouter un formulaire direct pour les événements nécessiterait le plugin payant[ Community Events](https://theeventscalendar.com/products/community/) (à 129 $/an).
+
+- Une alternative serait de créer un formulaire personnalisé permettant de recevoir des événements pré-traités par mail.
+
 - Points positifs :
-  - Le calendrier est esthétique et fonctionnel.
+
+- - Le calendrier est esthétique et fonctionnel.
   - Les utilisateurs peuvent s’y abonner via leur propre plateforme d’agenda (export ICS disponible).
 
-#### News & Events
+News & Events
 
-- La page regroupe des évènements et appels à contribution, avec une classification par onglets et tags. Ce sont les mêmes que dans le calendrier. 
+- La page regroupe des évènements et des appels à contribution, avec une classification par onglets et tags. Ce sont les mêmes que dans le calendrier.
 
-#### Liste de diffusion
+- Pour la publication, le doc-inter demande 
 
-- Une newsletter Mailchimp est disponible, permettant de diffuser les évènements. Tous les membres de Doc-Inter devraient y être automatiquement inscrits.
+  1. Submit your requests to <docinterhar.contact@gmail.com> at least 5 business days before your event. This will ensure that your request is posted on time across our networks.
+  2. Please provide the texts in both French and English separately for the publication of your event;
+  3. For Instagram and Facebook (@docinterhar), provide a visual in 1:1 format, 1080 px x 1080 px;
+  4. For the website <https://docinterhar.com/>, provide a visual measuring 940 x 788 px.
 
-### Les calendriers universitaires
+  Be sure to subscribe at the bottom of the homepage to receive the latest news and updates about the program website.
+  Please be advised that we will respond to emails and requests on Monday morning. We look forward to your events!
 
-#### Université de Montréal (UdeM)
+Liste de diffusion
 
-- Le [calendrier UdeM](https://calendrier.umontreal.ca/) permet aux professeurs de publier des événements via une plateforme dédiée ([Guide utilisateur](https://calendrier.umontreal.ca/docs/GuidedutilisateurUdeM.pdf)).
-- Les événements UdeM étaient intégré à un calendrier général montréalais via Caligram. Limitation : Caligram (anciennement Mur Mitoyen) est peu actif.
+- Le site indique qu'une newsletter Mailchimp est disponible, permettant de diffuser les évènements. Tous les membres de Doc-Inter devraient y être automatiquement inscrits.
+
+### **Les calendriers universitaires**
+
+Les calendriers universitaires ne semblent pas pouvoir être ajoutés à son agenda perso grâce à un ics. Il faut donc aller vérifier les informations. Ce calendrier est peu rempli en raison de la difficulté à collecter l'information.
+
+Les départements d'histoire de l'art transfèrent les mails qui leur sont envoyés. Le contenu n'est pas éditorialisé et le nombre de mails polluent les boites mails.
+
+#### Université de Montréal (UdeM) - Département d’histoire de l’art, de cinéma et des médias audiovisuels
+
+- Le[ calendrier UdeM](https://calendrier.umontreal.ca/) permet aux professeurs de publier des événements via une plateforme dédiée.
 - Intégration dans les pages "Nouvelles" et "Événements" du département d’histoire de l’art.
-- Le Mur mitoyen et Caligram ne seront plus utilisés dans la  nouvelle version du calendrier institutionnel. L’outil est désormais  hébergé dans TYPO3, la même plateforme que votre site Web départemental.
-- Pour les événements extérieurs, le département de l'Udem transfère les mails qui leurs sont envoyés. Pas écologique et fait exploser les boites mails. Pas éditorialisé. Comment ça se passe pour l'UQAM et Concordia ?
+- Le Mur mitoyen et Caligram ne seront plus utilisés dans la nouvelle version du calendrier institutionnel. L’outil est désormais hébergé dans TYPO3, la même plateforme que notre site Web départemental.
 
-#### Université du Québec à Montréal (UQAM)
+#### Université du Québec à Montréal (UQAM) - département d’histoire de l’art
 
-- UQAM utilise également Caligram : https://evenements.uqam.ca/.
+- UQAM utilise Caligram :[ https://evenements.uqam.ca/](https://evenements.uqam.ca/).
 
-#### Université Concordia
+#### Université Concordia - département d’histoire de l’art
 
-- Le site https://concordia.ab.ca/events/ ne propose pas de formulaire pour renseigner les événements.
-- La page du département d’histoire de l’art ([Concordia Art History](https://www.concordia.ca/finearts/art-history.html)) était inaccessible lors de cette analyse.
+- Le site[ https://concordia.ab.ca/events/](https://concordia.ab.ca/events/) présente les événements du département, sous calendrier du calendrier de l'université.
 
-### Calendrier Aesthesis
+Les trois départements partagent les événements extérieurs qui leur sont transmis à leurs étudiants et professeurs en transférant les mails qui leur sont envoyés. C’est une solution qui n’est pas écologique et fait exploser les boites mails. L’information n’est pas éditorialisée et se perd. 
 
-L’association Aesthesis utilise un agenda Google pour partager les événements en histoire de l’art. Au lieu d'ajouter les événements à son agenda personnel, les membres du bureau le font dans cet agenda. Ce système est collaboratif mais repose sur une plateforme privée. 
+### **Calendrier Aesthesis**
 
-## Problèmes identifiés
+L’association Aesthesis utilise un agenda Google pour partager les événements en histoire de l’art. Au lieu d'ajouter les événements à son agenda personnel, les membres du bureau le font dans cet agenda. Ce système est collaboratif, mais repose sur une plateforme privée, Google. L'ajout d'événement se fait en fonction des emails reçus et de la disponibilité des doctorantes en poste.
 
-### 1. Collecte d’information
+## **Propositions**
 
-- Les signalements d’événements arrivent par mail et doivent être traités manuellement par l’attachée de communication ce qui est chronophage 
-- Peu de personne partage leurs événements au doc-inter ce qui explique le faible nombre d’événements publiés.
+Voici quelques propositions qui pourraient faciliter une meilleure coordination interuniversitaire, une diffusion optimisée des événements et une participation accrue des membres.
 
-### 2. Limitation des outils actuels
+### **1. Coordination interuniversitaire**
 
-- Le site utilise le plugin gratuit [The Events Calendar](https://theeventscalendar.com/) pour WordPress. Ajouter un formulaire direct pour les événements nécessiterait le plugin payant [Community Events](https://theeventscalendar.com/products/community/) (à 129 $/an).
-- Une alternative serait de créer un formulaire personnalisé permettant de recevoir des événements pré-traités par mail.
-- Les calendriers universitaires ne semblent pas pouvoir être ajoutés à son agenda perso. Il faut donc aller vérifier les informations.
+La gestion des outils et pratiques de diffusion des événements varie selon les universités partenaires, rendant la collecte et la diffusion d’information complexe. Il est donc essentiel de structurer un dispositif harmonisé pour assurer une meilleure visibilité des événements interuniversitaires.
 
-### 3. Liste de diffusion 
+Afin de favoriser une diffusion plus efficace, il est proposé de :
 
-La liste de diffusion peut-être une lettre d'information mais aussi un espace de partage. Les personnes inscrites à la liste peuvent partager leurs informations aux autres abonnés. Ça peut être pratique pour centraliser le partage de l'information. Il faudra cependant aussi saisir les informations dans le calendrier si cette solution souhaite être maintenue. 
+- Maintenir la communication interne des départements tout en veillant à ce que les informations pertinentes soient centralisées sur Doc-Inter.
+- Proposer une intégration avec les calendriers institutionnels (UdeM, UQAM, Concordia) et explorer les API disponibles pour automatiser la synchronisation.
+- Élaborer une charte ou un accord informel pour harmoniser la diffusion des événements entre les universités partenaires.
+- Informer les départements d'histoire de l'art qu'ils n'ont plus à transférer les courriels aux étudiants et professeurs, mais qu'ils peuvent désormais orienter directement les personnes vers Doc-Inter. Nous pouvons leur fournir un modèle de réponse standardisé, adaptable aux trois institutions, afin de faciliter l'intégration systématique des événements dans le calendrier et d'assurer une communication fluide.
+- Nommer des représentants étudiants ou membres du personnel dans chaque université pour assurer une veille et une transmission efficace des événements vers Doc-Inter. Former les membres clés des universités partenaires à l’utilisation du système Doc-Inter.
+- Encourager les étudiants et professeurs à ajouter directement leurs événements via des campagnes d’information (newsletters, rappels par courriel).
+- Mobiliser des bénévoles ou stagiaires (en communication ou histoire de l’art), ainsi que les associations étudiantes et le CEDISC, pour faciliter l’organisation et la diffusion.
+- Évaluer l’utilisation de solutions d’intelligence artificielle (IA) pour optimiser la gestion des événements et la personnalisation des recommandations.
 
-- Bien que pratique, Mailchimp est une solution propriétaire et payante.
-- Alternatives : listes de diffusion libres (ex. : Sympa, offert par l’UdeM).
-- Mise à jour annuelle nécessaire pour s’assurer que tous les membres sont inscrits.
-- Les listes de diffusions arrivent dans la boites des indésirables
+La modération des événements ajoutés au calendrier sera toujours faite par l'attachée de communication.
 
-### 4. Coordination interuniversitaire
+### **2. Formulaire de soumission des événements**
 
-- Chaque université gère ses propres outils et pratiques, rendant la collecte et la diffusion d’information complexe.
-- Publier exclusivement sur Doc-Inter pourrait exclure un public extérieur à l’histoire de l’art. 
-- Il me semble important que les départements universitaires continuent de promouvoir leurs événements internes. 
+Pour garder le calendrier en ligne, mais améliorer l’automatisation du processus de soumission des événements, il est possible de créer un formulaire en ligne intégré au site WordPress de Doc-Inter. Celui-ci devra :
 
-## Propositions
+- être très simple et facile d'accès.
+- Intégrer des règles de validation pour standardiser les entrées (menus déroulants pour les types d’événements et les lieux).
+- Assurer une validation par l’attachée de communication avant publication.
 
-### **Problème 1 : Difficulté à collecter et à traiter les informations sur les événements**
+Il est possible d'utiliser un plugin gratuit ou peu coûteux de WordPress permettant la collecte des informations essentielles (titre, description, date, lieu, image, contact, etc.) directement dans un agenda. La solution [The Event Calendar](https://theeventscalendar.com) est à réévaluer.
 
-#### Solution : Création d’un formulaire en ligne intégré
+Il est aussi possible d'examiner des solutions automatisées (scripts ou outils no-code) pour faciliter l’intégration des événements.
 
-- Mettre en place un formulaire simple et intuitif sur le site WordPress de Doc-Inter.
-- Utiliser un plugin gratuit ou peu coûteux pour collecter les informations essentielles (titre, description, date, lieu, image, contact, etc.).
-- Automatiser l'envoi des données collectées vers l'attachée de communication, réduisant le traitement manuel.
-- https://calenda.org/ site à formulaire pour proposer événements. 
+Les règles imposées par le doc inter d’avoir un visuel pour le siteweb est compliqué. 
 
-#### Solution : Automatisation partielle du traitement
+### **3. Liste de diffusion**
 
-- Configurer des règles dans le formulaire pour normaliser les entrées (par ex., un menu déroulant pour les types d'événements ou les lieux).
-- Explorer les fonctionnalités payantes de « The Events Calendar » pour permettre une modération rapide des propositions avant publication.
+Pour s'éloigner du calendrier, la liste de diffusion peut être à la fois un canal de diffusion et un espace d’échange. Une liste de diffusion simple demanderait trop de travail à l'attachée de communication, mais sous forme de listes de discussion, toute personne inscrite peut envoyer un message ou y répondre. Celle-ci remplacerait le calendrier et les transferts des départements d'histoire de l'art.
 
-### **Problème 2 : Faible utilisation du calendrier Doc-Inter**
+Il est conseillé pour cette solution :
 
-#### Solution : Passer le calendrier sur Caligram. 
+- Étudier des alternatives à Mailchimp, comme Sympa (offert par l’UdeM).
+- Configurer une gestion centralisée de l’inscription des membres, tout en garantissant leur droit de désinscription. Effectuer une mise à jour annuelle des inscrits.
+- Mettre en place un guide d’utilisation pour éviter les erreurs d’envoi en masse.
+- Il est possible de maintenir une modération de la part de l'attachée de communication doc-inter.
 
-1. ​	Avantages : 
-   - le calendrier peut être affiché sur le wordpress.
-   - interface de saisie des événements simple
-2. Inconvénients :
-   - La coop en charge de l'outil semble péricliter. Vérifier que les universités restent sur l'outil avant de s'engager. 
-   - on ne peut pas s'abonner (ce qui pour moi serait vraiment un plus par rapport aux propositions des universités et autres plateformes)
-   - Les événements seront multiplié sur leurs plateformes s'ils sont sur sur les groupes des universités Et de doc inter.
-   - Ne résout pas la problématique de la lettre d'information
+Cette solution n'empêche pas la réception de nombreux de mails. Il est possible que les mails soient considérés comme des indésirables, il existe des solutions à explorer pour empêcher cela (optimisation de l'affichage).
 
-#### Solution : Implication des membres dans l’alimentation du calendrier
+### **4. Passage à un outil de messagerie communautaire**
 
-- Encourager les membres (étudiants, professeurs) à ajouter leurs propres événements dans le calendrier via des campagnes d’information (ex. : newsletters, courriels de rappel).
-- Former les membres clés des universités partenaires à l’utilisation du système.
+Pour une solution similaire, mais intégrée au site web, l’utilisation d’une plateforme comme Discourse est à envisager pour fluidifier les échanges et structurer les discussions. Elle permet de regrouper la communauté des trois universités à un seul endroit, permettre au-delà des annonces d’événement d’avoir des espaces de communications. L'outil permet d'envoyer un mail récapitulatif sous forme de newsletter et peut être publié sur le site du Doc Inter. Une vue sous forme de calendrier ics est aussi possible (option payante).
 
-#### Solution : Synchronisation interuniversitaire
+L'outil Discourse est gratuit, mais son stockage est payant. À voir si une des universités a les ressources pour l'administrer en interne et ainsi le rendre entièrement gratuit. 
 
-- Proposer une intégration avec les calendriers des universités (UdeM, UQAM, Concordia) pour récupérer automatiquement les événements pertinents.
-- Explorer les API disponibles pour automatiser la synchronisation avec les plateformes existantes. 
-- Solutions IA?
+### **5. Élargissement de la diffusion**
 
-### **Problème 3 : Liste de diffusion**
+Afin d’améliorer la visibilité des événements au-delà de Doc-Inter, plusieurs pistes sont à envisager :
 
-Avec l'information traitées grâce aux solutions précédentes, l'éditorialisation sera plus simple. 
+- Sensibiliser les membres à l’importance de contribuer activement au calendrier doc-inter.
+- Lancer une campagne de communication expliquant l’utilisation des outils.
 
-#### Solution : Passage à une solution open-source
+## **Conclusions et préconisations**
 
-- Migrer de Mailchimp vers une solution libre comme Sympa.
-- Configurer une gestion centralisée pour garantir l'inscription automatique des membres du doc-inter tout en respectant leur droit de désinscription.
+L’analyse de la diffusion des événements en histoire de l’art sur le site Doc-Inter met en évidence plusieurs défis liés à la collecte et à la transmission de l’information. Le processus actuel, reposant sur une saisie manuelle par l’attachée de communication, est chronophage et limité par le faible engagement des membres à partager leurs événements.
 
-#### Solution : Optimisation des newsletters
+Bien qu’aucune solution parfaite n’existe, il est possible d’optimiser la gestion et la diffusion des événements. Voici nos préconisations :
 
-- Simplifier le contenu des newsletters avec des liens directs vers le calendrier en ligne.
-- Rappeler de s'abonner à l'agenda
+- **Maintenir le calendrier actuel** : Le calendrier WordPress existant est à la fois esthétique et fonctionnel. Son maintien est pertinent tant qu’il répond aux besoins de l’équipe Doc-Inter. Attention cependant, exiger un visuel exclu grand nombre événements 
 
-### **Problème 4 : Manque de visibilité interuniversitaire**
+  
 
-#### Solution : Collaboration entre départements
+- **Investir dans le plugin payant** **Community Events** : L’achat de ce module (129 $/an) permettrait d’automatiser la soumission des événements, réduisant ainsi la charge de travail de l’attachée de communication. Plutôt que de saisir manuellement chaque événement, elle pourrait se concentrer sur la modération et la rédaction d’une newsletter, renforçant ainsi la diffusion.
 
-- Mettre en place une charte ou un accord informel pour harmoniser la diffusion des événements entre les universités partenaires.
-- Nommer des référents dans chaque département pour assurer une veille sur les événements.
+  
 
-#### Solution : Élargir la diffusion
+- **Centraliser la diffusion des événements des départements** : Doc-Inter pourrait devenir le canal unique de diffusion des événements au sein des trois départements d’histoire de l’art. Ainsi, lorsqu’un mail de promotion est envoyé à un secrétariat, celui-ci pourrait répondre avec la procédure de soumission à Doc-Inter. Un guide et des modèles de réponse standardisés seraient développés afin de simplifier ce processus et d’éviter les transferts d’e-mails inefficaces. De plus, les étudiants de baccalauréat et de maîtrise pourraient être informés de la procédure d’inscription à la newsletter de Doc-Inter.
 
-- Publier les événements non seulement sur Doc-Inter, mais aussi sur des plateformes grand public comme Eventbrite ou les réseaux sociaux universitaires.
-- Intégrer des outils comme Mur Mitoyen ou Caligram (s’ils sont encore fonctionnels) pour toucher un public plus large.
+  
 
-### **Problème 5 : Temps et ressources limités**
+- **Sensibiliser et impliquer les membres de Doc-Inter** : Il est essentiel de renforcer la communication avec les départements d’histoire de l’art des universités partenaires pour expliquer les avantages de Doc-Inter et encourager une collaboration active. Cette centralisation implique que tous les membres soient informés des outils à leur disposition. Une campagne de sensibilisation (via une newsletter et des communications ciblées) devra être mise en place pour inciter les membres à utiliser ces outils et à contribuer activement à l’alimentation du calendrier.
 
-#### Solution : Renforcer les ressources humaines
+## 
 
-- Mobiliser des bénévoles ou stagiaires (étudiants en communication ou histoire de l’art), associations étudiantes, CEDISC pour aider à l’organisation et la diffusion des événements.
-- Nommer un ou deux représentants étudiants ou membres du personnel dans chaque université pour assurer une veille et une transmission d’événements vers Doc-Inter.
+## **Rétroplanning de mise en place**
 
-#### Solution : Automatisation accrue
+**Mois 1 - Analyse et concertation**
 
-- Explorer des solutions automatisées pour la gestion des événements, comme des scripts ou des outils no-code pour l'intégration entre plateformes.
+Réunion avec les départements d'histoire de l'art des universités partenaires
 
-## Préconisations
+Présentation du projet et validation des solutions proposées
 
-### SOLUTION 1
+Validation budgétaire pour l'achat du plugin Community Events
 
-Avoir un calendrier avec les informations sur le site doc-inter.
+**Mois 2 - Implémentation technique**
 
-#### Étape 1 : Récolter l’information
+Achat et installation du plugin Community Events
 
-1. **Formulaire de soumission :**
-   - Créer un formulaire personnalisé sur le site Doc-Inter pour permettre aux utilisateurs de soumettre des événements.
-   - Si possible, inclure des champs clés : titre, date, lieu, description, type d’événement, lien d’inscription.
-2. **Responsabiliser les membres :**
-   - Encourager les membres à renseigner directement les événements dans le calendrier Doc-Inter. Les professeurs devraient également publier leurs événements sur Doc-Inter pour toucher une audience interuniversitaire.
-   - Informer les départements d'histoire de l'art. Créer un mail de réponse type si un événement leur est envoyé. Maintenir la publication d’événements sur les calendriers universitaires.
+Configuration du formulaire de soumission automatisé
 
-#### Étape 2 : Partager l’information
+Tests internes pour assurer son bon fonctionnement
 
-1. **Validation et éditorialisation :**
-   - La soumission d’événements via formulaire serait validée par l’attachée de communication avant publication.
-2. **Lettre d'information** :
-   - L'attachée de communication doit continuer de faire une lettre d'information à partir du calendrier. Il est conseillé d'en faire une tous les 15 jours pour éviter l'accumulation. 
+**Mois 3 - Formalisation des processus**
 
-### SOLUTION 2
+Rédaction et diffusion d'un guide de bonnes pratiques pour les départements d'histoire de l'art
 
-#### Étape 1 : Créer une liste de diffusion
+Création de modèles de réponse pour l'orientation vers Doc-Inter
 
-Les départements et les professeurs de doc inter s'inscrivent et partagent leurs événements sur une liste de diffusion. Les personnes extérieures au doc inter sont aussi invités à partager l'info sur la liste de diffusion. 
+**Mois 4 - Communication et formation**
 
-#### Étape 2 : Calendrier
+Campagne d'information pour les membres du Doc-Inter (newsletter, mails ciblés)
 
-Si le doc-inter veut maintenir un calendrier sur leur site, il est préconisé que l'attachée à la communication entre manuellement les informations de la liste de diffusion. 
+Formation de l'attachée de communication et des référents universitaires
 
-Une solution pour avoir un formulaire serait que le contenu soit envoyé directement sur la liste de diffusion.
+Lancement officiel du formulaire automatisé
 
-### Suggestions techniques
+**Mois 5-6 - Suivi et ajustements**
 
-- Il est possible d'investir dans le plugin "Community Events" pour simplifier la soumission d’événements. L'attachée de communication n'aura pas à renseigner les informations pour qu'elles soient publiées dans le calendrier. 
-- Explorer les autres plugin calendrier pour wordpress.
-- Passer à une solution libre et open-source pour la newsletter, comme Sympa.
+Suivi de l'utilisation du formulaire et de l'implication des membres
 
-### Implication communautaire
+Ajustements en fonction des retours
 
-- Sensibiliser les membres du Doc-Inter à l’importance de contribuer activement au calendrier.
-- Créer une campagne de communication pour expliquer l’utilisation des outils (formulaire, calendrier, newsletter).
-
-## Conclusion
-
-La mise en place de solutions collaboratives et la simplification des processus techniques permettraient d’améliorer la visibilité et l’accès aux événements d’histoire de l’art sur Doc-Inter, tout en allégeant la charge de travail de l’attachée de communication. En favorisant une participation active de la communauté, Doc-Inter peut devenir une plateforme centrale pour la diffusion d’événements culturels.
+Premiers bilans et recommandations d'amélioration
