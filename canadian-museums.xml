@@ -4,10 +4,10 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <!-- https://museums.ca/site/aboutthecma/services/canadianmuseumdirectory -->
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Liste des musées canadiens</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -16,8 +16,8 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <div>
             <listOrg>
@@ -27,7 +27,7 @@
                   <orgName xml:lang="en">Montreal Museum of Fine Arts</orgName>
                   <placeName>Montréal</placeName>
                   <region>Québec</region>
-                  <desc type="description"></desc>
+                  <desc type="description"/>
                   <desc type="collections" xml:lang="en">
                      <p>Thanks to the generosity of many donors, the MMFA’s collections today comprise some 47,000 works, of which over 6,000 can be viewed online.</p>
                      <p>This site’s Permanent Collection section was expanded thanks to the support of the Ministère de la Culture et des Communications du Québec, as part of the implementation of measure 41 of Quebec’s digital culture plan and to the Ville de Montréal under the Entente sur le développement culturel de Montréal.</p>
@@ -42,9 +42,9 @@
                   </desc>
                   <desc type="copyright" xml:lang="en">
                      <p>The distribution, publication or reproduction of the images and videos on this site are for media use only. They cannot be used for commercial purposes. Furthermore, their use must pertain directly to the collection, exhibitions, activities and/or news of the Montreal Museum of Fine Arts. All other use of said images and videos is strictly prohibited without prior consent.</p>
-                        <p>The images must be reproduced in their entirety, without cropping, bleeding, folding, overprinting or any other alteration whatsoever. Prior consent must be obtained for any request for distribution, publication or reproduction that deviates from this rule.</p>
-                        <p>The distribution, publication or reproduction of each image or video must be accompanied by a complete caption and credit, including the photo credit, where applicable.</p>
-                        <p>Please contact the MMFA’s Media Relations team for all questions or requests.</p>
+                     <p>The images must be reproduced in their entirety, without cropping, bleeding, folding, overprinting or any other alteration whatsoever. Prior consent must be obtained for any request for distribution, publication or reproduction that deviates from this rule.</p>
+                     <p>The distribution, publication or reproduction of each image or video must be accompanied by a complete caption and credit, including the photo credit, where applicable.</p>
+                     <p>Please contact the MMFA’s Media Relations team for all questions or requests.</p>
                      <idno>https://www.mbam.qc.ca/en/press-room/</idno>
                   </desc>
                   <desc type="copyright" xml:lang="fr">
@@ -56,8 +56,8 @@
                   </desc>
                   <idno type="website">https://www.mbam.qc.ca</idno>
                   <idno type="collection">https://www.mbam.qc.ca/en/collections/</idno>
-                  <idno type="opendata"></idno>
-                  <idno type="wikidata"></idno>
+                  <idno type="opendata"/>
+                  <idno type="wikidata"/>
                </org>
             </listOrg>
             <listOrg>
@@ -81,7 +81,7 @@
                   <region>British Columbia</region>
                </org>
             </listOrg>
-            
+
             <listOrg>
                <head>Manitoba</head>
                <org>
@@ -115,10 +115,10 @@
                   <region>Ontario</region>
                   <desc xml:lang="en">
                      <p>The Canadian War Museum is Canada’s national museum of military history and one of the world’s most respected museums for the study and understanding of armed conflict.</p>
-                        
-                        <p>The Museum traces its origins back to 1880, when it consisted primarily of a collection of militia artifacts. The Museum opened at its new location on the LeBreton Flats site in downtown Ottawa on May 8, 2005. Its opening not only marked the 60th anniversary of the end of the Second World War in Europe (V-E Day) but also the 125th anniversary of the Museum itself. Since its opening in 2005, the Museum has welcomed approximately 500,000 visitors every year.</p>
+
+                     <p>The Museum traces its origins back to 1880, when it consisted primarily of a collection of militia artifacts. The Museum opened at its new location on the LeBreton Flats site in downtown Ottawa on May 8, 2005. Its opening not only marked the 60th anniversary of the end of the Second World War in Europe (V-E Day) but also the 125th anniversary of the Museum itself. Since its opening in 2005, the Museum has welcomed approximately 500,000 visitors every year.</p>
                   </desc>
-                  
+
                   <idno type="website">https://www.warmuseum.ca</idno>
                   <idno type="collection">https://www.warmuseum.ca/collections/</idno>
                </org>
@@ -147,19 +147,21 @@
                   <region>Ontario</region>
                   <desc>
                      <p>Located in Toronto, the Art Gallery of Ontario is one of the largest art museums in North America, attracting approximately one million visitors annually. The AGO Collection of more than 120,000 works of art ranges from cutting-edge contemporary art to significant works by Indigenous and Canadian artists and European masterpieces. The AGO presents wide-ranging exhibitions and programs, including solo exhibitions and acquisitions by diverse and underrepresented artists from around the world. In 2019, the AGO launched a bold new initiative designed to make the museum even more welcoming and accessible with the introduction of free admission for Ontarians 25 years and under and a $40 annual pass. Visit AGO.ca to learn more.</p>
-                     <p>Founded in 1900 by a group of private citizens as the Art Museum of Toronto, the Art Gallery of Ontario is one of the largest art museums in North America, with over 90,000 works in its collection and a physical facility of 583,000 square feet. More than 4,000 works from the collection are on public view.</p></desc>
+                     <p>Founded in 1900 by a group of private citizens as the Art Museum of Toronto, the Art Gallery of Ontario is one of the largest art museums in North America, with over 90,000 works in its collection and a physical facility of 583,000 square feet. More than 4,000 works from the collection are on public view.</p>
+                  </desc>
                   <idno type="website">https://ago.ca</idno>
                </org>
                <org>
                   <orgName xml:lang="en">Canadian museum of nature</orgName>
                   <orgName xml:lang="fr">Musée canadien de la nature</orgName>
-                  <placeName></placeName>
+                  <placeName/>
                   <region>Ontario</region>
                   <desc>
                      <p>Collection data for more than 3 043 080 specimens from the museum’s National Phycology Collection of Canada (algae and diatoms) are stored in a database that is designed specifically for aquatic biological collections and the unique environmental data that are closely associated with the specimens, such as water chemistry.</p>
                   </desc>
                   <idno type="website">https://nature.ca</idno>
-                  <idno type="collection">https://nature.ca/en/our-science/collections/online-collection-data/</idno>
+                  <idno type="collection"
+                     >https://nature.ca/en/our-science/collections/online-collection-data/</idno>
                </org>
                <org>
                   <orgName xml:lang="en">Canada Aviation and Space Museum</orgName>
@@ -190,5 +192,5 @@
             </listOrg>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

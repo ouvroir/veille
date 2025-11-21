@@ -346,6 +346,13 @@
             <tag>open GLAM</tag>
           </keyword>
         </bibl>
+        <bibl>
+          <title>2ality</title>
+          <idno>https://2ality.com</idno>
+          <keywords>
+            <tag>JavaScript</tag>
+          </keywords>
+        </bibl>
         <bibl></bibl>
         <!--<bibl>
           <title>Muzeonum</title>
